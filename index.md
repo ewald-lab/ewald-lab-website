@@ -1,9 +1,7 @@
 ---
 ---
 
-# jessica-ewald's Website
-
-An engaging 1-3 sentence description of your lab.
+### Our research mission is to identify and characterize previously unknown chemical hazards to both humans and ecosystems with cell profiling, machine learning, and integrative data analysis.
 
 {% include section.html %}
 
