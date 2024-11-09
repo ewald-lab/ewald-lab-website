@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Ewald Lab
-subtitle: \@ EMBL-EBI
+subtitle: "@ EMBL-EBI"
 description: Our research mission is to identify and characterize previously unknown chemical hazards to both humans and ecosystems with cell profiling, machine learning, and integrative data analysis.
 header: images/background.jpg
 footer: images/background.jpg
