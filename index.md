@@ -1,7 +1,7 @@
 ---
 ---
 
-### Our research mission is to identify and characterize previously unknown chemical hazards to both humans and ecosystems with cell profiling, machine learning, and integrative data analysis.
+### We identify and characterize chemical hazards to humans and ecosystems with cell profiling, machine learning, and integrative data analysis.
 
 {% include section.html %}
 
