@@ -1,1 +1,1 @@
-Sitemap: http://ewaldlab.org/sitemap.xml
+Sitemap: https://ewaldlab.org/sitemap.xml
