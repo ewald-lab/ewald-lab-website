@@ -1,1 +1,1 @@
-Sitemap: https://jessica-ewald.github.io/ewald-lab-website/sitemap.xml
+Sitemap: http://www.ewaldlab.org/sitemap.xml
