@@ -1,23 +1,17 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1038/s41596-023-00950-4
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: A protocol for multi-omics integration with user-friendly web-based tools that enable researchers to efficiently integrate different data types for scientific discovery.
+  image: https://www.omicsanalyst.ca/resources/gallery/network9.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
     - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+      text: OmicsAnalyst
+      link: https://www.omicsanalyst.ca/
+    - type: website
+      text: OmicsNet
+      link: https://www.omicsnet.ca/
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1002/etc.5954
+  image: https://setac.onlinelibrary.wiley.com/cms/asset/ef8a1122-ca4d-48da-b538-2847f3d99268/etc5954-fig-0002-m.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1038/s41467-024-50613-5
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-50613-5/MediaObjects/41467_2024_50613_Fig2_HTML.png?as=webp
