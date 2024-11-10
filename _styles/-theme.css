@@ -1,6 +1,6 @@
 [data-dark=false] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
+  --primary: #000000;
+  --secondary: #000000;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -23,9 +23,9 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Noto", sans-serif;
+  --heading: "Noto", sans-serif;
+  --body: "Noto", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
