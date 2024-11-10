@@ -1,174 +1,625 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1002/etc.5954
+  title: 'The DIKW of Transcriptomics in Ecotoxicology: Extracting Information, Knowledge,
+    and Wisdom From Big Data'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
+  - Jessica A. Head
+  - Jessica D. Ewald
+  - Niladri Basu
+  publisher: Environmental Toxicology and Chemistry
+  date: '2024-08-12'
+  link: https://doi.org/g8qmnh
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-024-50613-5
+  title: Evaluating batch correction methods for image-based cell profiling
+  authors:
+  - John Arevalo
+  - Ellen Su
+  - Jessica D. Ewald
+  - Robert van Dijk
+  - Anne E. Carpenter
+  - Shantanu Singh
+  publisher: Nature Communications
+  date: '2024-08-02'
+  link: https://doi.org/gt557n
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cmet.2024.06.001
+  title: Proteomic predictors of individualized nutrient-specific insulin secretion
+    in health and disease
+  authors:
+  - Jelena Kolic
+  - WenQing Grace Sun
+  - Haoning Howard Cen
+  - Jessica D. Ewald
+  - Jason C. Rogalski
+  - Shugo Sasaki
+  - Han Sun
+  - Varsha Rajesh
+  - Yi Han Xia
+  - Renata Moravcova
+  - "S\xF8s Skovs\xF8"
+  - Aliya F. Spigelman
+  - Jocelyn E. Manning Fox
+  - James Lyon
+  - Leanne Beet
+  - Jianguo Xia
+  - Francis C. Lynn
+  - Anna L. Gloyn
+  - Leonard J. Foster
+  - Patrick E. MacDonald
+  - James D. Johnson
+  publisher: Cell Metabolism
+  date: '2024-07-01'
+  link: https://doi.org/g8qmnj
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-024-60865-2
+  title: Maternal gastrointestinal nematode infection alters hippocampal neuroimmunity,
+    promotes synaptic plasticity, and improves resistance to direct infection in offspring
+  authors:
+  - Sophia C. Noel
+  - Jeanne F. Madranges
+  - "Jean-David M. Gothi\xE9"
+  - Jessica Ewald
+  - Austen J. Milnerwood
+  - Timothy E. Kennedy
+  - Marilyn E. Scott
+  publisher: Scientific Reports
+  date: '2024-05-10'
+  link: https://doi.org/g8qmnk
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41596-023-00950-4
+  title: Web-based multi-omics integration using the Analyst software suite
+  authors:
+  - Jessica D. Ewald
+  - Guangyan Zhou
+  - Yao Lu
+  - Jelena Kolic
+  - Cara Ellis
+  - James D. Johnson
+  - Patrick E. Macdonald
+  - Jianguo Xia
+  publisher: Nature Protocols
+  date: '2024-02-14'
+  link: https://doi.org/g8qmnm
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fmars.2024.1360374
+  title: Scaled mass index derived from aerial photogrammetry associated with predicted
+    metabolic pathway disruptions in free-ranging St. Lawrence Estuary belugas
+  authors:
+  - Meredith Sherrill
+  - Alexandre Bernier-Graveline
+  - Jessica Ewald
+  - Zhiqiang Pang
+  - Michel Moisan
+  - "Mathieu Marzeli\xE8re"
+  - Maris Muzzy
+  - Tracy A. Romano
+  - Robert Michaud
+  - Jonathan Verreault
+  publisher: Frontiers in Marine Science
+  date: '2024-04-19'
+  link: https://doi.org/g8qmnn
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/etc.5811
+  title: "Hepatic Transcriptomic Responses to Ethinylestradiol in Embryonic Japanese\
+    \ Quail and Double\u2010Crested Cormorant"
+  authors:
+  - "Yeon\u2010Seon Jeon"
+  - Jonathan Sangiovanni
+  - Emily Boulanger
+  - Doug Crump
+  - Peng Liu
+  - Jessica Ewald
+  - Niladri Basu
+  - Jianguo Xia
+  - Markus Hecker
+  - Jessica Head
+  publisher: Environmental Toxicology and Chemistry
+  date: '2024-01-25'
+  link: https://doi.org/gwm4fp
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/exposome/osae005
+  title: A data-centric perspective on exposomics data analysis
+  authors:
+  - Le Chang
+  - Jessica Ewald
+  - Fiona Hui
+  - "St\xE9phane Bayen"
+  - Jianguo Xia
+  publisher: Exposome
+  date: '2024-01-01'
+  link: https://doi.org/g8qmnp
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/etc.5803
+  title: Comparing Transcriptomic Responses to Chemicals Across Six Species Using
+    the EcoToxChip RNASeq Database
+  authors:
+  - Krittika Mittal
+  - Jessica Ewald
+  - Doug Crump
+  - Jessica Head
+  - Markus Hecker
+  - Natacha Hogan
+  - Jianguo Xia
+  - Niladri Basu
+  publisher: Environmental Toxicology and Chemistry
+  date: '2024-01-17'
+  link: https://doi.org/g8qmnq
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cpz1.922
+  title: "Using ExpressAnalyst for Comprehensive Gene Expression Analysis in Model\
+    \ and Non\u2010Model Organisms"
+  authors:
+  - Jessica Ewald
+  - Guangyan Zhou
+  - Yao Lu
+  - Jianguo Xia
+  publisher: Current Protocols
+  date: '2023-11-01'
+  link: https://doi.org/g8qmnr
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkad407
+  title: 'MicrobiomeAnalyst 2.0: comprehensive statistical, functional and integrative
+    analysis of microbiome data'
+  authors:
+  - Yao Lu
+  - Guangyan Zhou
+  - Jessica Ewald
+  - Zhiqiang Pang
+  - Tanisha Shiri
+  - Jianguo Xia
   publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  date: '2023-05-11'
+  link: https://doi.org/g8qmns
+  orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1038/s41467-023-38785-y
+  title: 'ExpressAnalyst: A unified platform for RNA-sequencing analysis in non-model
+    species'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Peng Liu
+  - Jessica Ewald
+  - Zhiqiang Pang
+  - Elena Legrand
+  - Yeon Seon Jeon
+  - Jonathan Sangiovanni
+  - Orcun Hacariz
+  - Guangyan Zhou
+  - Jessica A. Head
+  - Niladri Basu
+  - Jianguo Xia
+  publisher: Nature Communications
+  date: '2023-05-24'
+  link: https://doi.org/g8qmnt
+  orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.fct.2022.113501
+  title: Transcriptomic points of departure calculated from human intestinal cells
+    exposed to dietary nanoparticles
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
+  - Ke Xu
+  - Krittika Mittal
+  - Jessica Ewald
+  - Samuel Rulli
+  - Jennifer L. Jakubowski
+  - Saji George
+  - Niladri Basu
+  publisher: Food and Chemical Toxicology
+  date: '2022-12-01'
+  link: https://doi.org/g8qmnv
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.est.2c04665
+  title: "Characterizing Variability and Uncertainty Associated with Transcriptomic\
+    \ Dose\u2013Response Modeling"
+  authors:
+  - Jessica D. Ewald
+  - Niladri Basu
+  - Doug Crump
+  - Emily Boulanger
+  - Jessica Head
+  publisher: Environmental Science &amp; Technology
+  date: '2022-10-21'
+  link: https://doi.org/g8qmnw
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-2187066/v1
+  title: A unified platform for RNA-seq analysis in non-model species
+  authors:
+  - Peng Liu
+  - Jessica Ewald
+  - Elena Legrand
+  - Yeon-Seon Jeon
+  - Jonathan Sangiovanni
+  - Orcun Hacariz
+  - Zhiqiang Pang
+  - Guangyan Zhou
+  - Jessica Head
+  - Niladri Basu
+  - Jianguo Xia
+  publisher: Research Square Platform LLC
+  date: '2022-11-08'
+  link: https://doi.org/g8qmnx
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1289/ehp10808
+  title: A Systematic Review of Mercury Exposures from Skin-Lightening Products
+  authors:
+  - Ashley Bastiansz
+  - Jessica Ewald
+  - "Ver\xF3nica Rodr\xEDguez Salda\xF1a"
+  - Andrea Santa-Rios
+  - Niladri Basu
+  publisher: Environmental Health Perspectives
+  date: '2022-11-01'
+  link: https://doi.org/gv7pt4
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/etc.5391
+  title: Exposure to Contaminated River Water is Associated with Early Hatching and
+    Dysregulation of Gene Expression in Early Life Stages of the Endangered Copper
+    Redhorse (<i>Moxostoma hubbsi</i>)
+  authors:
+  - H. Marchand
+  - B. D. Barst
+  - E. Boulanger
+  - N. Vachon
+  - M. Houde
+  - J. Xia
+  - P. Liu
+  - J. D. Ewald
+  - S. Bayen
+  - L. Liu
+  - J. A. Head
+  publisher: Environmental Toxicology and Chemistry
+  date: '2022-06-30'
+  link: https://doi.org/gzmn25
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/etc.5395
+  title: Transcriptomic Points of Departure Calculated from Rainbow Trout Gill, Liver,
+    and Gut Cell Lines Exposed to Methylmercury and Fluoxetine
+  authors:
+  - Krittika Mittal
+  - Jessica Ewald
+  - Niladri Basu
+  publisher: Environmental Toxicology and Chemistry
+  date: '2022-06-28'
+  link: https://doi.org/gzp7sn
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41596-022-00710-w
+  title: "Using MetaboAnalyst 5.0 for LC\u2013HRMS spectra processing, multi-omics\
+    \ integration and covariate adjustment of global metabolomics data"
+  authors:
+  - Zhiqiang Pang
+  - Guangyan Zhou
+  - Jessica Ewald
+  - Le Chang
+  - Orcun Hacariz
+  - Niladri Basu
+  - Jianguo Xia
+  publisher: Nature Protocols
+  date: '2022-06-17'
+  link: https://doi.org/gqnf7w
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkac376
+  title: 'OmicsNet 2.0: a web-based platform for multi-omics integration and network
+    visual analytics'
+  authors:
+  - Guangyan Zhou
+  - Zhiqiang Pang
+  - Yao Lu
+  - Jessica Ewald
+  - Jianguo Xia
   publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  date: '2022-05-26'
+  link: https://doi.org/gp8kxw
+  orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.21203/rs.3.pex-1917/v1
+  title: 'Using MetaboAnalyst 5.0 Part I: Optimizing parameters for LC-HRMS spectra
+    processing'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Zhiqiang Pang
+  - Guangyan Zhou
+  - Jessica Ewald
+  - Le Chang
+  - Orcun Hacariz
+  - Niladri Basu
+  - Jianguo Xia
+  publisher: Research Square Platform LLC
+  date: '2022-06-17'
+  link: https://doi.org/g8qmnz
+  orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.envpol.2021.118667
+  title: Comparative analysis of transcriptomic points-of-departure (tPODs) and apical
+    responses in embryo-larval fathead minnows exposed to fluoxetine
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Alper James G. Alcaraz
+  - Shaina Baraniuk
+  - "Kamil Mikul\xE1\u0161ek"
+  - Bradley Park
+  - Taylor Lane
+  - Connor Burbridge
+  - Jessica Ewald
+  - "David Pot\u011B\u0161il"
+  - Jianguo Xia
+  - "Zbyn\u011Bk Zdr\xE1hal"
+  - David Schneider
+  - Doug Crump
+  - Niladri Basu
+  - Natacha Hogan
+  - Markus Brinkmann
+  - Markus Hecker
+  publisher: Environmental Pollution
+  date: '2022-02-01'
+  link: https://doi.org/gzwkwf
+  orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1002/etc.5251
+  title: "EcoToxXplorer: Leveraging Design Thinking to Develop a Standardized Web\u2010\
+    Based Transcriptomics Analytics Platform for Diverse Users"
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Othman Soufan
+  - Jessica Ewald
+  - Guangyan Zhou
+  - Orcun Hacariz
+  - Emily Boulanger
+  - Alper James Alcaraz
+  - Gordon Hickey
+  - Steve Maguire
+  - Guillaume Pain
+  - Natacha Hogan
+  - Markus Hecker
+  - Doug Crump
+  - Jessica Head
+  - Niladri Basu
+  - Jianguo Xia
+  publisher: Environmental Toxicology and Chemistry
+  date: '2021-12-29'
+  link: https://doi.org/g8qmn2
+  orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1002/etc.5174
+  title: "Using Transcriptomics and Metabolomics to Understand Species Differences\
+    \ in Sensitivity to Chlorpyrifos in Japanese Quail and Double\u2010Crested Cormorant\
+    \ Embryos"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "Jean\u2010Pierre Desforges"
+  - Elena Legrand
+  - Emily Boulager
+  - Peng Liu
+  - Jianguo Xia
+  - Heather Butler
+  - Bharat Chandramouli
+  - Jessica Ewald
+  - Niladri Basu
+  - Markus Hecker
+  - Jessica Head
+  - Doug Crump
+  publisher: Environmental Toxicology and Chemistry
+  date: '2021-09-15'
+  link: https://doi.org/gwf224
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.est.1c02401
+  title: "Assessing the Toxicity of 17\u03B1-Ethinylestradiol in Rainbow Trout Using\
+    \ a 4-Day Transcriptomics Benchmark Dose (BMD) Embryo Assay"
+  authors:
+  - Alper James G. Alcaraz
+  - "Kamil Mikul\xE1\u0161ek"
+  - "David Pot\u011B\u0161il"
+  - Bradley Park
+  - Kamran Shekh
+  - Jessica Ewald
+  - Connor Burbridge
+  - "Zbyn\u011Bk Zdr\xE1hal"
+  - David Schneider
+  - Jianguo Xia
+  - Doug Crump
+  - Niladri Basu
+  - Markus Hecker
+  publisher: Environmental Science &amp; Technology
+  date: '2021-07-22'
+  link: https://doi.org/gwkd7c
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkab394
+  title: 'OmicsAnalyst: a comprehensive web-based platform for visual analytics of
+    multi-omics data'
+  authors:
+  - Guangyan Zhou
+  - Jessica Ewald
+  - Jianguo Xia
+  publisher: Nucleic Acids Research
+  date: '2021-05-21'
+  link: https://doi.org/gkhp2j
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btaa700
+  title: "FastBMD: an online tool for rapid benchmark dose\u2013response analysis\
+    \ of transcriptomics data"
+  authors:
+  - Jessica Ewald
+  - Othman Soufan
+  - Jianguo Xia
+  - Niladri Basu
+  publisher: Bioinformatics
+  date: '2020-08-06'
+  link: https://doi.org/g8qmn3
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.269894.120
+  title: Ultrafast functional profiling of RNA-seq data for nonmodel organisms
+  authors:
+  - Peng Liu
+  - Jessica Ewald
+  - Jose Hector Galvez
+  - Jessica Head
+  - Doug Crump
+  - Guillaume Bourque
+  - Niladri Basu
+  - Jianguo Xia
+  publisher: Genome Research
+  date: '2021-03-17'
+  link: https://doi.org/gpwtnc
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.est.9b06607
+  title: 'EcoToxModules: Custom Gene Sets to Organize and Analyze Toxicogenomics Data
+    from Ecological Species'
+  authors:
+  - Jessica D. Ewald
+  - Othman Soufan
+  - Doug Crump
+  - Markus Hecker
+  - Jianguo Xia
+  - Niladri Basu
+  publisher: Environmental Science &amp; Technology
+  date: '2020-02-28'
+  link: https://doi.org/gzjpb5
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.scitotenv.2019.136325
+  title: Selenium and stable mercury isotopes provide new insights into mercury toxicokinetics
+    in pilot whales
+  authors:
+  - Miling Li
+  - C. Alicia Juang
+  - Jessica D. Ewald
+  - Runsheng Yin
+  - Bjarni Mikkelsen
+  - David P. Krabbenhoft
+  - Prentiss H. Balcom
+  - Clifton Dassuncao
+  - Elsie M. Sunderland
+  publisher: Science of The Total Environment
+  date: '2020-03-01'
+  link: https://doi.org/gwmr3c
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7287/peerj.preprints.27839
+  title: 'T1000: A reduced toxicogenomics gene set for improved decision making'
+  authors:
+  - Othman Soufan
+  - Jessica Ewald
+  - Charles Viau
+  - Doug Crump
+  - Markus Hecker
+  - Niladri Basu
+  - Jianguo Xia
+  publisher: PeerJ
+  date: '2019-07-03'
+  link: https://doi.org/g8qmn4
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7287/peerj.preprints.27839v1
+  title: 'T1000: A reduced toxicogenomics gene set for improved decision making'
+  authors:
+  - Othman Soufan
+  - Jessica Ewald
+  - Charles Viau
+  - Doug Crump
+  - Markus Hecker
+  - Niladri Basu
+  - Jianguo Xia
+  publisher: PeerJ
+  date: '2019-07-03'
+  link: https://doi.org/g8qmn5
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkz240
+  title: 'NetworkAnalyst 3.0: a visual analytics platform for comprehensive gene expression
+    profiling and meta-analysis'
+  authors:
+  - Guangyan Zhou
+  - Othman Soufan
+  - Jessica Ewald
+  - Robert E W Hancock
+  - Niladri Basu
+  - Jianguo Xia
+  publisher: Nucleic Acids Research
+  date: '2019-04-01'
+  link: https://doi.org/gfzmf4
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.scitotenv.2018.09.299
+  title: Organ-specific differences in mercury speciation and accumulation across
+    ringed seal (Phoca hispida) life stages
+  authors:
+  - Jessica D. Ewald
+  - Jane L. Kirk
+  - Miling Li
+  - Elsie M. Sunderland
+  publisher: Science of The Total Environment
+  date: '2019-02-01'
+  link: https://doi.org/gvv2mv
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.est.6b03206
+  title: Environmental Origins of Methylmercury Accumulated in Subarctic Estuarine
+    Fish Indicated by Mercury Stable Isotopes
+  authors:
+  - Miling Li
+  - Amina T. Schartup
+  - Amelia P. Valberg
+  - Jessica D. Ewald
+  - David P. Krabbenhoft
+  - Runsheng Yin
+  - Prentiss H. Balcom
+  - Elsie M. Sunderland
+  publisher: Environmental Science &amp; Technology
+  date: '2016-10-19'
+  link: https://doi.org/f9c378
+  orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +635,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +651,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
