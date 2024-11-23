@@ -13,10 +13,4 @@ links:
   orcid: 0000-0002-7555-736X
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Jess is fascinated by computational biology and environmental toxicology! She discovered this during her undergrad at Harvard University where she researched heavy metals in marine mammals with Dr. Elsie Sunderland. Next, Jess did a PhD in Bioinformatics at McGill University with Dr. Nil Basu where she developed statistical methods and software for analyzing toxicogenomics data from ecologically-relevant species, and stayed at McGill to hone her bioinformatics and web-development skills with a postdoc with Dr. Jeff Xia. Before starting at EMBL-EBI, she did a second postdoc with the Carpenter-Singh Lab at the Broad Institute of MIT and Harvard where she used Cell Painting and other omics data from in vitro screens to detect chemical toxicity.

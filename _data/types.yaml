@@ -4,7 +4,7 @@
 
 pi:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Group Leader
 
 postdoc:
   icon: fa-solid fa-glasses

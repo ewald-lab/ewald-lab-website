@@ -2,78 +2,28 @@
 ---
 
 ### We identify and characterize chemical hazards to humans and ecosystems with cell profiling, machine learning, and integrative data analysis.
-
 {% include section.html %}
 
-## Highlights
 
-{% capture text %}
+## The Big Problem
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+So many chemicals, mainly untested.
+{% include section.html %}
 
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
-{% endcapture %}
+## A New Paradigm
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
+Toxicity testing in the 21st century.
+{% include section.html %}
 
-{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## The Computational Biology Challenge
 
-{%
-  include button.html
-  link="publications"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+Even with technological advances, a brute force approach of measuring all endpoints after every possible chemical exposure in all biological contexts is not feasible. Fortunately, high-content omics data enables us to measure thousands of transcripts, proteins, metabolites, and cell morphology features. Thus, the challenge is to deconvolve interpretable and biologically meaningful signals from omics datasets, and to use prior biological knowledge to extrapolate observations across biological contexts. 
+{% include section.html %}
 
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="publications"
-  title="Our Publications"
-  text=text
-%}
+## Our Solution
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+We mine high-content omics data to detect and characterize harzardous biological responses to chemical exposures at environmentally-relevant levels. We use data integration and transfer learning to extrapolate findings across biological scales, cell and tissue types, species, life stages, and sex. We work with academia-industry-government-nonprofit consortia to develop translational applications. 
+{% include section.html %}
