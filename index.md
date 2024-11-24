@@ -1,7 +1,7 @@
 ---
 ---
 
-# We identify and characterize chemical hazards to humans and ecosystems with cell profiling, machine learning, and integrative data analysis.
+## We identify and characterize chemical hazards to humans and ecosystems with cell profiling data, machine learning, and integrative data analysis.
 {% include section.html %}
 
 
@@ -27,11 +27,10 @@ Given the vast chemical space and biological complexity, a brute-force approach 
 
 High-content omics data enables us to measure thousands of molecular and morphological features from cells after they are exposed to chemicals. When we measure these data from in vitro cellular assays, we call it “cell profiling”. Using cell profiling data, our lab:
 
-- Estimates the lowest chemical exposures that cause measurable molecular perturbations in different species (including humans!)
+- Estimates the lowest chemical exposure that causes measurable molecular perturbations in living organisms (including humans!)
 
 - Predicts how chemicals cause toxicity by analyzing images of exposed cells with machine learning, transfer learning, and multi-omics integration
 
 - Creates user-friendly web-tools that connect cell profiles to toxicity data from diverse in silico, in vitro, and in vivo sources
 
 We also value working closely with collaborators across government, industry, and academia to maximize the translational impact of our work.
-{% include section.html %}
