@@ -90,6 +90,7 @@ nav {
   gap: 10px;
   font-family: var(--heading);
   text-transform: uppercase;
+  font-weight: var(--bold);
 }
 
 nav > a {
@@ -129,7 +130,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 120px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
@@ -142,6 +143,7 @@ header[data-big] .title {
 }
 header[data-big] .subtitle {
   font-size: var(--large);
+  font-weight: var(--regular);
 }
 
 /*# sourceMappingURL=header.css.map */
