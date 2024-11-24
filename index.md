@@ -23,7 +23,15 @@ Given the vast chemical space and biological complexity, a brute-force approach 
 {% include section.html %}
 
 
-## Our Contribution
+## Our Work
 
-We mine high-content omics data to detect and characterize harzardous biological responses to chemical exposures at environmentally-relevant levels. We use data integration and transfer learning to extrapolate findings across biological scales, cell and tissue types, species, life stages, and sex. We work with academia-industry-government-nonprofit consortia to develop translational applications. 
+High-content omics data enables us to measure thousands of molecular and morphological features from cells after they are exposed to chemicals. When we measure these data from in vitro cellular assays, we call it “cell profiling”. Using cell profiling data, our lab:
+
+- Estimates the lowest chemical exposures that cause measurable molecular perturbations in different species (including humans!)
+
+- Predicts how chemicals cause toxicity by analyzing images of exposed cells with machine learning, transfer learning, and multi-omics integration
+
+- Creates user-friendly web-tools that connect cell profiles to toxicity data from diverse in silico, in vitro, and in vivo sources
+
+We also value working closely with collaborators across government, industry, and academia to maximize the translational impact of our work.
 {% include section.html %}
