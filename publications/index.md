@@ -1,8 +1,7 @@
 ---
 title: Publications
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
 ---
 
 # Publications

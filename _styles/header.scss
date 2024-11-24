@@ -1,7 +1,7 @@
 ---
 ---
 
-$logo-big: 80px;
+$logo-big: 120px;
 $logo: 40px;
 $big-padding: 100px;
 $collapse: 700px;
@@ -102,6 +102,7 @@ nav {
   gap: 10px;
   font-family: var(--heading);
   text-transform: uppercase;
+  font-weight: var(--bold);
 }
 
 nav > a {
@@ -164,5 +165,6 @@ header[data-big] {
 
   .subtitle {
     font-size: var(--large);
+    font-weight: var(--regular)
   }
 }

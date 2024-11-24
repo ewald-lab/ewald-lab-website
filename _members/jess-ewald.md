@@ -1,6 +1,6 @@
 ---
 name: Jess Ewald
-image: images/team/jess.png
+image: images/team/jess.jpg
 role: pi
 affiliation: EMBL-EBI
 aliases:
