@@ -1,6 +1,7 @@
 # site properties and page defaults
+title: "Ewald Lab"
 subtitle: "@ EMBL-EBI"
-description: We identify and characterize previously unknown chemical hazards to both humans and ecosystems with cell profiling, machine learning, and integrative data analysis.
+description: We identify and characterize chemical hazards to both humans and ecosystems with cell profiling data, machine learning, and integrative data analysis.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
