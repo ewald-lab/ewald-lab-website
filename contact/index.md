@@ -34,9 +34,7 @@ We are always looking for enthusiastic and motivated individuals to join our lab
 
 {% capture col2 %}
 
-{%
   PhD students are recruited via the EMBL International PhD Programme (https://www.embl.de/training/eipp/application/index.html). For queries regarding the programme, please contact the EBI Research Office (roffice@ebi.ac.uk).
-%}
 
 {% endcapture %}
 
@@ -45,8 +43,10 @@ We are always looking for enthusiastic and motivated individuals to join our lab
 {% include section.html dark=true %}
 
 {% capture col1 %}
+{%
   include plain-image.html
   image="images/campus.jpg"
+%}
 {% endcapture %}
 
 {% capture col2 %}
@@ -54,8 +54,10 @@ We are always looking for enthusiastic and motivated individuals to join our lab
 {% endcapture %}
 
 {% capture col3 %}
+{%
   include plain-image.html
   image="images/hinxton.jpg"
+%}
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
