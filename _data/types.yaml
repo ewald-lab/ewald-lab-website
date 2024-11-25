@@ -26,6 +26,10 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+new:
+  icon: fa-solid fa-sparkles
+  description: Future Member
+
 # general
 
 link:

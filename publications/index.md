@@ -10,7 +10,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="A protocol for multi-omics integration" style="rich" %}
+{% include citation.html lookup="Web-based multi-omics integration" style="rich" %}
 
 {% include citation.html lookup="Evaluating batch correction methods" style="rich" %}
 
