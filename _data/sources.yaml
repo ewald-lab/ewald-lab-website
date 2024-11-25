@@ -1,5 +1,4 @@
 - id: doi:10.1038/s41596-023-00950-4
-  type: paper
   description: A protocol for multi-omics integration with user-friendly web-based tools that enable researchers to efficiently integrate different data types for scientific discovery.
   image: https://www.omicsanalyst.ca/resources/gallery/network9.png
   buttons:

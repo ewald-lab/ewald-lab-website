@@ -1,0 +1,12 @@
+<figure class="plain-image">
+  <img
+    src="{{ include.image | relative_url | xml_escape }}"
+    style="
+      width: {{ include.width | default: 'auto' }};
+      max-height: {{ include.height | default: 'unset' }};
+    "
+    alt="{{ include.caption | default: 'figure image' | xml_escape }}"
+    loading="lazy"
+    {% include fallback.html %}
+  >
+</figure>

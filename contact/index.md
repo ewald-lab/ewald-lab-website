@@ -6,9 +6,7 @@ nav:
 
 # Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are always looking for enthusiastic and motivated individuals to join our lab! We welcome inquiries from students and researchers at all levels who are passionate about the intersection of computational biology and environmental toxicology. If you’re interested in joining the lab, please email Jess at the address below with a brief statement of your interests and your CV.
 
 {%
   include button.html
@@ -37,9 +35,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% capture col2 %}
 
 {%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  PhD students are recruited via the EMBL International PhD Programme (https://www.embl.de/training/eipp/application/index.html). For queries regarding the programme, please contact the EBI Research Office (roffice@ebi.ac.uk).
 %}
 
 {% endcapture %}
@@ -49,21 +45,17 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+  include plain-image.html
+  image="images/campus.jpg"
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+  Our lab is located at EMBL-EBI on the beautiful Wellcome Genome Campus in Hinxton, UK
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+  include plain-image.html
+  image="images/hinxton.jpg"
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
