@@ -27,7 +27,7 @@ Given the vast chemical space and biological complexity, a brute-force approach 
 
 High-content omics data enables us to measure thousands of molecular and morphological features from cells after they are exposed to chemicals. When we measure these data from in vitro cellular assays, we call it “cell profiling”. Using cell profiling data, our lab:
 
-- Estimates the lowest chemical exposure that causes measurable molecular perturbations in different tissues of living organisms (including humans!)
+- Estimates the lowest chemical exposure that causes molecular perturbations in different tissues of living organisms (including humans!) for thousands of compounds
 
 - Predicts how chemicals cause toxicity by analyzing images of exposed cells with machine learning, transfer learning, and multi-omics integration
 
