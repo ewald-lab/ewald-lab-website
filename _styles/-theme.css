@@ -36,7 +36,7 @@
   --bold: 600;
   --spacing: 2;
   --compact: 1.5;
-  --rounded: 3px;
+  --rounded: 8px;
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }

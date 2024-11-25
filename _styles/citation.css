@@ -18,6 +18,8 @@
 }
 
 .citation-image img {
+  padding: 20px 0 20px 20px;
+  border-radius: var(--rounded);
   position: absolute;
   inset: 0;
   width: 100%;
@@ -33,10 +35,10 @@
   max-width: 100%;
   height: min-content;
   padding: 20px;
-  padding-left: 30px;
   text-align: left;
   overflow-wrap: break-word;
   z-index: 0;
+  flex: 1;
 }
 
 .citation-title,
