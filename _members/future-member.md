@@ -1,5 +1,5 @@
 ---
-name: You?
+name: 
 image: images/team/you.jpg
 role: new
 affiliation: EMBL-EBI

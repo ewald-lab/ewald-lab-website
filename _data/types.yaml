@@ -27,7 +27,7 @@ mascot:
   description: Mascot
 
 new:
-  icon: fa-solid fa-sparkles
+  icon: fa-solid fa-circle-plus
   description: Future Member
 
 # general
