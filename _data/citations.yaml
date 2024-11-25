@@ -95,7 +95,6 @@
   orcid: 0000-0002-7555-736X
   plugin: sources.py
   file: sources.yaml
-  type: paper
   description: A protocol for multi-omics integration with user-friendly web-based
     tools that enable researchers to efficiently integrate different data types for
     scientific discovery.
