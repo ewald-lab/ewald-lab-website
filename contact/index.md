@@ -7,12 +7,15 @@ nav:
 # Contact
 
 We are always looking for enthusiastic and motivated individuals to join our lab! We welcome inquiries from students and researchers at all levels who are passionate about the intersection of computational biology and environmental toxicology. If you’re interested in joining the lab, please email Jess at the address below with a brief statement of your interests and your CV.
+<br>
+<br>
+PhD students are recruited via the [EMBL International PhD Programme](https://www.embl.org/about/info/embl-international-phd-programme/), and receive their degrees through the University of Cambridge. For queries regarding the programme, please contact the EBI Research Office (roffice@ebi.ac.uk).
 
 {%
   include button.html
   type="email"
-  text="1jess.ewald@gmail.com"
-  link="1jess.ewald@gmail.com"
+  text="jewald@ebi.ac.uk"
+  link="jewald@ebi.ac.uk"
 %}
 {%
   include button.html
@@ -21,26 +24,6 @@ We are always looking for enthusiastic and motivated individuals to join our lab
 %}
 
 {% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-  PhD students are recruited via the EMBL International PhD Programme (https://www.embl.de/training/eipp/application/index.html). For queries regarding the programme, please contact the EBI Research Office (roffice@ebi.ac.uk).
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
 
 {% capture col1 %}
 {%
