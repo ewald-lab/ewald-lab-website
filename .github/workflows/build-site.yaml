@@ -2,13 +2,9 @@ name: build-site
 run-name: build live site
 
 on:
-  # run when called from another workflow
   workflow_call:
-
-  # run if user manually requests it
   workflow_dispatch:
 
-# variables
 env:
   PREVIEWS_FOLDER: preview
 
@@ -17,7 +13,7 @@ permissions:
 
 jobs:
   build-site:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     steps:
       - name: Debug dump
@@ -26,13 +22,27 @@ jobs:
       - name: Checkout branch contents
         uses: actions/checkout@v4
 
+      - name: Install ruby-build
+        run: |
+          git clone https://github.com/rbenv/ruby-build.git ~/.ruby-build
+          sudo ~/.ruby-build/install.sh
+
+      - name: Install Ruby
+        run: |
+          ruby-build 3.2.3 /opt/hostedtoolcache/Ruby/3.2.3/x64
+          mkdir -p /opt/hostedtoolcache/Ruby/3.2.3/x64
+          touch /opt/hostedtoolcache/Ruby/3.2.3/x64.complete
+
+      - name: Add Ruby to PATH
+        run: echo "/opt/hostedtoolcache/Ruby/3.2.3/x64/bin" >> $GITHUB_PATH
+
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1.172.0
         with:
-          ruby-version: "3.2"
+          ruby-version: "3.2.3"
           bundler-cache: true
 
-      - name: Get Pages url
+      - name: Get Pages URL
         id: pages
         uses: actions/configure-pages@v4
 
@@ -40,7 +50,7 @@ jobs:
         if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
 
-      - name: Set root url
+      - name: Set root URL
         run: |
           printf "\n\nurl: ${{ steps.pages.outputs.origin }}" >> _config.yaml
 
