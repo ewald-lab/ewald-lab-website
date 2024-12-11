@@ -6,8 +6,16 @@
 
 
 ## The Big Problem
-
+{% capture col1 %}
 Despite the fact that environmental contaminants cause 16% of premature deaths worldwide, most chemicals in commercial use have never been assessed for their potential to cause harm to humans or ecosystems. Traditional toxicity testing methods that use live animals are too expensive, slow, and ethically concerning to assess chemical hazard at scale. 
+{% endcapture %}
+{% capture col2 %}
+{%
+  include plain-image.html
+  image="images/1_chem_problem.svg"
+  caption="There are too many chemicals with unknown toxicity to assess with traditional methods."
+%}
+{% endcapture %}
 {% include section.html %}
 
 
@@ -17,7 +25,7 @@ Drug discovery programs routinely screen tens of thousands of compounds in compu
 {% include section.html %}
 
 
-## The Computational Biology Challenge
+## Computational Biology Challenges
 
 Given the vast chemical space and biological complexity, a brute-force approach of testing every compound in all cell types and species is impractical. Instead, scientists must develop computational approaches that leverage prior knowledge of taxonomic relationships, cell types, and cell state to design efficient chemical screens and extrapolate observed toxicity across biological space.
 {% include section.html %}
