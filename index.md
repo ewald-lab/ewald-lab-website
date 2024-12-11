@@ -51,8 +51,8 @@ Given the vast chemical space and biological complexity, a brute-force approach 
 {% capture col2 %}
 {%
   include plain-image.html
-  image="images/3_extrapolate.svg"
-  width="500px"
+  image="images/3_extrapolate.png"
+  width="400px"
   caption="There are too many chemicals with unknown toxicity to assess with traditional methods."
 %}
 {% endcapture %}
