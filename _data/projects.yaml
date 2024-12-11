@@ -1,47 +1,20 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: OASIS Consortium
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/oasis_logo.png
+  link: https://oasisconsortium.org/
+  description: Our goal is to assess the combination of Cell Painting, transcriptomics and proteomics in a variety of cell models for safety assessment of drugs, pesticides, and environmental contaminants, using hepatotoxicity as test case. We are a precompetitive collaboration between 31 academic, non-profit, industry, and government institutions. 
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: EcoToxChip Project
+  image: images/ecotoxchip_logo.jpg
+  link: https://www.ecotoxchip.ca/
+  description: The EcoToxChip is a toxicogenomics New Approach Method (NAM) purposefully designed for use in chemical prioritization and environmental management ​activities.
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: JUMP Consortium
+  image: images/jump_logo.png
+  link: https://broadinstitute.github.io/jump_hub/
+  description: JUMP (Joint Undertaking for Morphological Profiling) Cell Painting is an effort to produce data and resources to make use of Cell Painting data. The Ewald Lab uses JUMP data for benchmarking and transfer learning.
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: HumanIslets Consortium
+  image: images/humanislets_logo.png
+  link: https://www.humanislets.com/#/
+  description: HumanIslets.com brings together five omics types and 74 *in vivo* and *in vitro* metadata for ~550 donors. This is the type of integrative, user-friendly tool that the Ewald Lab hopes to build!

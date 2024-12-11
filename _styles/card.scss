@@ -7,11 +7,12 @@
   align-items: center;
   flex-direction: column;
   width: 350px;
+  height: 500px; /* Fixed height for the card */
   max-width: calc(100% - 20px - 20px);
   margin: 20px;
   background: var(--background);
   border-radius: var(--rounded);
-  overflow: hidden;
+  overflow: hidden; /* Ensures the card doesn’t overflow */
   box-shadow: var(--shadow);
   vertical-align: top;
 }
@@ -21,20 +22,23 @@
 }
 
 .card-image img {
-  aspect-ratio: 3 / 2;
-  object-fit: cover;
   width: 100%;
-  // box-shadow: var(--shadow);
+  height: 200px;
+  padding: 20px 20px 0px 20px;
+  object-fit: contain;
 }
 
 .card-text {
-  display: inline-flex;
+  display: flex; /* Updated to flex for better alignment */
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
   gap: 20px;
-  max-width: 100%;
+  width: 100%; /* Ensure it spans the card width */
+  height: calc(100% - 200px); /* Take up the remaining height after the image */
   padding: 20px;
+  overflow-y: auto; /* Enable scrolling for overflow */
+  box-sizing: border-box; /* Include padding in height/width calculation */
 }
 
 .card-text > * {

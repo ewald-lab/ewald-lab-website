@@ -63,12 +63,12 @@ Given the vast chemical space and biological complexity, a brute-force approach 
 
 ## Our Work
 
-Omics data enables us to measure thousands of molecular and morphological features from cells after they are exposed to chemicals. When we measure these data from in vitro cellular assays, we call it “cell profiling”. Using cell profiling data, the Ewald Lab:
+Omics data enables us to measure thousands of molecular and morphological features from cells after they are exposed to chemicals. When we measure these data from *in vitro* cellular assays, we call it “cell profiling”. Using cell profiling data, the Ewald Lab:
 
 - Estimates the lowest chemical exposure that causes molecular and morphological perturbations in different tissues of living organisms (including humans!) for thousands of compounds
 
 - Predicts how chemicals cause toxicity by analyzing images of exposed cells with machine learning, transfer learning, and multi-omics integration
 
-- Creates user-friendly web-tools that connect cell profiles to toxicity data from diverse in silico, in vitro, and in vivo sources
+- Creates user-friendly web-tools that connect cell profiles to toxicity data from diverse *in silico*, *in vitro*, and *in vivo* sources
 
 We also value collaborating closely with stakeholders across government, industry, and academia to maximize the translational impact of our work.
