@@ -45,7 +45,7 @@ Drug discovery programs routinely screen thousands to millions of compounds in c
 ## Computational Biology Challenges
 
 {% capture col1 %}
-Given the vast chemical space and biological complexity, a brute-force approach of testing every compound in all cell types and species is impractical. Instead, scientists must develop computational approaches that leverage prior knowledge of taxonomic relationships, cell types, and cell state to design efficient chemical screens and extrapolate observed toxicity across biological space.
+A brute-force approach of testing every compound in all cell types and species is impractical. Instead, scientists must develop computational approaches that leverage prior knowledge of taxonomic relationships, cell types, and cell state to design efficient chemical screens and extrapolate observed toxicity across biological space.
 {% endcapture %}
 
 {% capture col2 %}

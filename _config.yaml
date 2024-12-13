@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: 1jess.ewald@gmail.com
+  email: jewald@ebi.ac.uk
   orcid: 0000-0002-7555-736X
   google-scholar: LXRDc6EAAAAJ
   github: jessica-ewald
   linkedin: jessica-ewald-17140072
-  bluesky: jessewald.bsky.social
+  bluesky: ewaldlab.org
 
 ### jekyll settings
 
