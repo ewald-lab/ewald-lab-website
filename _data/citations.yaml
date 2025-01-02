@@ -1,5 +1,74 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/toxsci/kfae145
+  title: 'Bioinformatic workflows for deriving transcriptomic points of departure:
+    current status, data gaps, and research priorities'
+  authors:
+  - "Jason O\u2019Brien"
+  - Constance Mitchell
+  - Scott Auerbach
+  - Liam Doonan
+  - Jessica Ewald
+  - Logan Everett
+  - Adam Faranda
+  - Kamin Johnson
+  - Anthony Reardon
+  - John Rooney
+  - Kan Shao
+  - Robert Stainforth
+  - Matthew Wheeler
+  - Deidre Dalmas Wilk
+  - Andrew Williams
+  - Carole Yauk
+  - Eduardo Costa
+  publisher: Toxicological Sciences
+  date: '2024-11-05'
+  link: https://doi.org/g8wpqs
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cmet.2024.09.001
+  title: 'HumanIslets.com: Improving accessibility, integration, and usability of
+    human research islet data'
+  authors:
+  - Jessica D. Ewald
+  - Yao Lu
+  - Cara E. Ellis
+  - Jessica Worton
+  - Jelena Kolic
+  - Shugo Sasaki
+  - Dahai Zhang
+  - Theodore dos Santos
+  - Aliya F. Spigelman
+  - Austin Bautista
+  - Xiao-Qing Dai
+  - James G. Lyon
+  - Nancy P. Smith
+  - Jordan M. Wong
+  - Varsha Rajesh
+  - Han Sun
+  - Seth A. Sharp
+  - Jason C. Rogalski
+  - Renata Moravcova
+  - Haoning H. Cen
+  - Jocelyn E. Manning Fox
+  - Ella Atlas
+  - Jennifer E. Bruin
+  - Erin E. Mulvihill
+  - C. Bruce Verchere
+  - Leonard J. Foster
+  - Anna L. Gloyn
+  - James D. Johnson
+  - Andrew R. Pepper
+  - Francis C. Lynn
+  - Jianguo Xia
+  - Patrick E. MacDonald
+  publisher: Cell Metabolism
+  date: '2024-10-01'
+  link: https://doi.org/g8wpqt
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/etc.5954
   title: 'The DIKW of Transcriptomics in Ecotoxicology: Extracting Information, Knowledge,
     and Wisdom From Big Data'
@@ -30,6 +99,27 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-50613-5/MediaObjects/41467_2024_50613_Fig2_HTML.png
+- id: doi:10.1002/etc.5955
+  title: 'Inconsistent Transcriptomic Responses to Hexabromocyclododecane in Japanese
+    Quail: A Comparative Analysis of Results From Four Different Study Designs'
+  authors:
+  - "Paul B\xE9ziers"
+  - Elena Legrand
+  - Emily Boulanger
+  - Niladri Basu
+  - Jessica D. Ewald
+  - Paula Henry
+  - Markus Hecker
+  - Jianguo Xia
+  - "Natalie Karouna\u2010Renier"
+  - Doug Crump
+  - Jessica Head
+  publisher: Environmental Toxicology and Chemistry
+  date: '2024-07-29'
+  link: https://doi.org/g8wpqv
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.cmet.2024.06.001
   title: Proteomic predictors of individualized nutrient-specific insulin secretion
     in health and disease
@@ -261,26 +351,6 @@
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.21203/rs.3.rs-2187066/v1
-  title: A unified platform for RNA-seq analysis in non-model species
-  authors:
-  - Peng Liu
-  - Jessica Ewald
-  - Elena Legrand
-  - Yeon-Seon Jeon
-  - Jonathan Sangiovanni
-  - Orcun Hacariz
-  - Zhiqiang Pang
-  - Guangyan Zhou
-  - Jessica Head
-  - Niladri Basu
-  - Jianguo Xia
-  publisher: Research Square Platform LLC
-  date: '2022-11-08'
-  link: https://doi.org/g8qmnx
-  orcid: 0000-0002-7555-736X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1289/ehp10808
   title: A Systematic Review of Mercury Exposures from Skin-Lightening Products
   authors:
@@ -359,23 +429,6 @@
   publisher: Nucleic Acids Research
   date: '2022-05-26'
   link: https://doi.org/gp8kxw
-  orcid: 0000-0002-7555-736X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.3.pex-1917/v1
-  title: 'Using MetaboAnalyst 5.0 Part I: Optimizing parameters for LC-HRMS spectra
-    processing'
-  authors:
-  - Zhiqiang Pang
-  - Guangyan Zhou
-  - Jessica Ewald
-  - Le Chang
-  - Orcun Hacariz
-  - Niladri Basu
-  - Jianguo Xia
-  publisher: Research Square Platform LLC
-  date: '2022-06-17'
-  link: https://doi.org/g8qmnz
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
@@ -568,22 +621,6 @@
   publisher: PeerJ
   date: '2019-07-03'
   link: https://doi.org/g8qmn4
-  orcid: 0000-0002-7555-736X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7287/peerj.preprints.27839v1
-  title: 'T1000: A reduced toxicogenomics gene set for improved decision making'
-  authors:
-  - Othman Soufan
-  - Jessica Ewald
-  - Charles Viau
-  - Doug Crump
-  - Markus Hecker
-  - Niladri Basu
-  - Jianguo Xia
-  publisher: PeerJ
-  date: '2019-07-03'
-  link: https://doi.org/g8qmn5
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
