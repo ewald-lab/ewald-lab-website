@@ -1,5 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.01.22.634152
+  title: Cell Painting for cytotoxicity and mode-of-action analysis in primary human
+    hepatocytes
+  authors:
+  - Jessica D. Ewald
+  - Katherine L Titterton
+  - "Alex B\xE4uerle"
+  - Alex Beatson
+  - Daniil A Boiko
+  - "\xC0ngel A Cabrera"
+  - Jaime Cheah
+  - Beth A. Cimini
+  - Bram Gorissen
+  - Thouis Jones
+  - Konrad Karczewski
+  - "David Rouqui\xE9"
+  - Srijit Seal
+  - Erin Weisbart
+  - Brandon White
+  - Anne E. Carpenter
+  - Shantanu Singh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-24'
+  link: https://doi.org/g824vz
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/toxsci/kfae145
   title: 'Bioinformatic workflows for deriving transcriptomic points of departure:
     current status, data gaps, and research priorities'
