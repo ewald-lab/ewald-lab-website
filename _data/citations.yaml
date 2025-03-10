@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.02.20.639325
+  title: Linking molecular pathways and islet cell dysfunction in human type 1 diabetes
+  authors:
+  - Theodore dos Santos
+  - Xiao Qing Dai
+  - Robert C Jones
+  - Aliya F Spigelman
+  - Hannah M Mummey
+  - Jessica D Ewald
+  - Cara E Ellis
+  - James G Lyon
+  - Nancy Smith
+  - Austin Bautista
+  - Jocelyn E Manning Fox
+  - Norm F. Neff
+  - Angela Detweiler
+  - Michelle Tan
+  - Rafael Arrojo E Drigo
+  - Jianguo Xia
+  - Joan Camunas-Soler
+  - Kyle J Gaulton
+  - Stephen Quake
+  - Patrick E MacDonald
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-21'
+  link: https://doi.org/g86tkq
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.01.22.634152
   title: Cell Painting for cytotoxicity and mode-of-action analysis in primary human
     hepatocytes
@@ -97,11 +126,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/etc.5954
-  title: 'The DIKW of Transcriptomics in Ecotoxicology: Extracting Information, Knowledge,
-    and Wisdom From Big Data'
+  title: 'The DIKW of transcriptomics in ecotoxicology: extracting information, knowledge,
+    and wisdom from big data'
   authors:
-  - Jessica A. Head
-  - Jessica D. Ewald
+  - Jessica A Head
+  - Jessica D Ewald
   - Niladri Basu
   publisher: Environmental Toxicology and Chemistry
   date: '2024-08-12'
@@ -244,10 +273,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/etc.5811
-  title: "Hepatic Transcriptomic Responses to Ethinylestradiol in Embryonic Japanese\
-    \ Quail and Double\u2010Crested Cormorant"
+  title: Hepatic Transcriptomic Responses to Ethinylestradiol in Embryonic Japanese
+    Quail and Double-Crested Cormorant
   authors:
-  - "Yeon\u2010Seon Jeon"
+  - Yeon-Seon Jeon
   - Jonathan Sangiovanni
   - Emily Boulanger
   - Doug Crump
@@ -258,7 +287,7 @@
   - Markus Hecker
   - Jessica Head
   publisher: Environmental Toxicology and Chemistry
-  date: '2024-01-25'
+  date: '2023-12-01'
   link: https://doi.org/gwm4fp
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
@@ -278,8 +307,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/etc.5803
-  title: Comparing Transcriptomic Responses to Chemicals Across Six Species Using
-    the EcoToxChip RNASeq Database
+  title: Comparing transcriptomic responses to chemicals across six species using
+    the EcoToxChip RNASeq database
   authors:
   - Krittika Mittal
   - Jessica Ewald
@@ -290,7 +319,7 @@
   - Jianguo Xia
   - Niladri Basu
   publisher: Environmental Toxicology and Chemistry
-  date: '2024-01-17'
+  date: '2023-12-12'
   link: https://doi.org/g8qmnq
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
@@ -409,7 +438,7 @@
   - L. Liu
   - J. A. Head
   publisher: Environmental Toxicology and Chemistry
-  date: '2022-06-30'
+  date: '2022-05-27'
   link: https://doi.org/gzmn25
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
@@ -422,7 +451,7 @@
   - Jessica Ewald
   - Niladri Basu
   publisher: Environmental Toxicology and Chemistry
-  date: '2022-06-28'
+  date: '2022-05-27'
   link: https://doi.org/gzp7sn
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
@@ -486,8 +515,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/etc.5251
-  title: "EcoToxXplorer: Leveraging Design Thinking to Develop a Standardized Web\u2010\
-    Based Transcriptomics Analytics Platform for Diverse Users"
+  title: 'EcoToxXplorer: Leveraging Design Thinking to Develop a Standardized Web-Based
+    Transcriptomics Analytics Platform for Diverse Users'
   authors:
   - Othman Soufan
   - Jessica Ewald
@@ -505,17 +534,17 @@
   - Niladri Basu
   - Jianguo Xia
   publisher: Environmental Toxicology and Chemistry
-  date: '2021-12-29'
+  date: '2021-11-11'
   link: https://doi.org/g8qmn2
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/etc.5174
-  title: "Using Transcriptomics and Metabolomics to Understand Species Differences\
-    \ in Sensitivity to Chlorpyrifos in Japanese Quail and Double\u2010Crested Cormorant\
-    \ Embryos"
+  title: Using Transcriptomics and Metabolomics to Understand Species Differences
+    in Sensitivity to Chlorpyrifos in Japanese Quail and Double-Crested Cormorant
+    Embryos
   authors:
-  - "Jean\u2010Pierre Desforges"
+  - Jean-Pierre Desforges
   - Elena Legrand
   - Emily Boulager
   - Peng Liu
@@ -528,7 +557,7 @@
   - Jessica Head
   - Doug Crump
   publisher: Environmental Toxicology and Chemistry
-  date: '2021-09-15'
+  date: '2021-07-22'
   link: https://doi.org/gwf224
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
