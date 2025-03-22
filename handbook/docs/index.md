@@ -2,7 +2,7 @@
 title: Handbook
 nav:
   order: 4
-redirect_to: /handbook/site/index.html
+redirect_to: /handbook/site/
 ---
 
 # Welcome to the Ewald Lab handbook!

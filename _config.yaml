@@ -70,4 +70,3 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-  - handbook/docs/
