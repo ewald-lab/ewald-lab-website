@@ -1,0 +1,23 @@
+site_name: Ewald Lab Handbook
+site_author: Jessica Ewald
+use_directory_urls: true
+site_description: >-
+  Collection of protocols, blog posts, and random advice on scientific research. 
+
+theme:
+  name: material
+
+
+# Copyright
+copyright: Copyright &copy 2025 Jessica Ewald
+
+
+# Page tree
+nav:
+  - Home: index.md
+  #- Reading List:
+    #- Overview: reading/reading-overview.md
+    #- 1. Tox21: reading/1-tox21.md
+    #- 2. Image-based profiling: reading/2-image-based-profiling.md
+    #- 3. Cell profiling for tox: reading/3-profiling-tox.md
+  - Useful Courses: courses-overview.md
