@@ -6,10 +6,19 @@ site_description: >-
 
 theme:
   name: material
+  palette:
+    primary: custom
+  font:
+    text: Noto
+  logo: assets/icon.png
+  favicon: assets/favicon.png
 
 
-# Copyright
-copyright: Copyright &copy 2025 Jessica Ewald
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  homepage: https://ewaldlab.org
 
 
 # Page tree
