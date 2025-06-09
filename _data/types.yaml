@@ -40,6 +40,10 @@ website:
   icon: fa-solid fa-globe
   text: Website
 
+repository:
+  icon: fa-brands fa-github
+  text: GitHub repository
+
 external:
   icon: fa-solid fa-up-right-from-square
   text: External Link
