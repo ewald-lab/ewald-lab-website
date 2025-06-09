@@ -14,3 +14,14 @@
 
 - id: doi:10.1038/s41467-024-50613-5
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-50613-5/MediaObjects/41467_2024_50613_Fig2_HTML.png
+
+
+- id: doi:10.1101/2025.01.22.634152
+  image: https://www.ebi.ac.uk/research/ewald/wp-content/uploads/2025/02/Fig1_PHH_hydrocortisone_LR.png
+  buttons:
+    - type: repository
+      text: GitHub Repo
+      link: https://github.com/broadinstitute/2024_09_09_Axiom_OASIS
+    - type: website
+      text: Raw Data
+      link: https://cellpainting-gallery.s3.amazonaws.com/index.html#cpg0037-oasis/axiom/
