@@ -34,17 +34,17 @@
     hepatocytes
   authors:
   - Jessica D. Ewald
-  - Katherine L Titterton
+  - Katherine L. Titterton
   - "Alex B\xE4uerle"
   - Alex Beatson
-  - Daniil A Boiko
-  - "\xC0ngel A Cabrera"
+  - Daniil A. Boiko
+  - "\xC1ngel A. Cabrera"
   - Jaime Cheah
   - Beth A. Cimini
   - Bram Gorissen
   - Thouis Jones
-  - Konrad Karczewski
-  - "David Rouqui\xE9"
+  - Konrad J. Karczewski
+  - David Rouquie
   - Srijit Seal
   - Erin Weisbart
   - Brandon White
@@ -120,7 +120,7 @@
   - Jianguo Xia
   - Patrick E. MacDonald
   publisher: Cell Metabolism
-  date: '2024-10-01'
+  date: '2025-01-01'
   link: https://doi.org/g8wpqt
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
@@ -156,18 +156,18 @@
   file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-50613-5/MediaObjects/41467_2024_50613_Fig2_HTML.png
 - id: doi:10.1002/etc.5955
-  title: 'Inconsistent Transcriptomic Responses to Hexabromocyclododecane in Japanese
-    Quail: A Comparative Analysis of Results From Four Different Study Designs'
+  title: 'Inconsistent transcriptomic responses to hexabromocyclododecane in Japanese
+    quail: a comparative analysis of results from four different study designs'
   authors:
   - "Paul B\xE9ziers"
   - Elena Legrand
   - Emily Boulanger
   - Niladri Basu
-  - Jessica D. Ewald
+  - Jessica D Ewald
   - Paula Henry
   - Markus Hecker
   - Jianguo Xia
-  - "Natalie Karouna\u2010Renier"
+  - Natalie Karouna-Renier
   - Doug Crump
   - Jessica Head
   publisher: Environmental Toxicology and Chemistry
