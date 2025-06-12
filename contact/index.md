@@ -6,16 +6,16 @@ nav:
 
 # Contact
 
-We are always looking for enthusiastic and motivated individuals to join our lab! We welcome inquiries from students and researchers at all levels who are passionate about the intersection of computational biology and environmental toxicology. If you’re interested in joining the lab, please email Jess at the address below with a brief statement of your interests and your CV. While we don't currently have any open positions, we can notify you of future openings and explore co-writing fellowship applications if there is a good fit between our interests. 
+We are always looking for enthusiastic and motivated individuals to join our lab! While we don't currently have any open positions, we welcome inquiries from students and researchers at all levels who are passionate about the intersection of computational biology and environmental toxicology. If you’re interested in joining the lab, please email Jess at the address below after reading [these guidelines](https://ewaldlab.org/handbook/site/join-lab/).
 <br>
 <br>
-PhD students are recruited via the [EMBL International PhD Programme](https://www.embl.org/about/info/embl-international-phd-programme/), and receive their degrees through the University of Cambridge. For queries regarding the programme, please contact the EBI Research Office (roffice@ebi.ac.uk). The next recruitment round opens September 2025, for a start date of Fall 2026.
+PhD students are recruited via the [EMBL International PhD Programme](https://www.embl.org/about/info/embl-international-phd-programme/), and receive their degrees through the University of Cambridge. For queries regarding the programme, please contact the EBI Research Office (<roffice@ebi.ac.uk>). The next recruitment round opens September 2025, for a start date of Fall 2026.
 
 {%
   include button.html
   type="email"
-  text="jewald@ebi.ac.uk"
-  link="jewald@ebi.ac.uk"
+  text="<jewald@ebi.ac.uk>"
+  link="<jewald@ebi.ac.uk>"
 %}
 {%
   include button.html
