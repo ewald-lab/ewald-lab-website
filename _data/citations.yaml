@@ -59,7 +59,7 @@
   image: https://www.ebi.ac.uk/research/ewald/wp-content/uploads/2025/02/Fig1_PHH_hydrocortisone_LR.png
   buttons:
   - type: repository
-    text: GitHub Repo
+    text: GitHub repository
     link: https://github.com/broadinstitute/2024_09_09_Axiom_OASIS
   - type: website
     text: Raw Data
