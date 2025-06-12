@@ -29,4 +29,5 @@ nav:
     #- 1. Tox21: reading/1-tox21.md
     #- 2. Image-based profiling: reading/2-image-based-profiling.md
     #- 3. Cell profiling for tox: reading/3-profiling-tox.md
-  - Useful Courses: courses-overview.md
+  - Useful courses: courses-overview.md
+  - Joining the lab: join-lab.md
