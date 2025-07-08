@@ -8,4 +8,4 @@ cd handbook
 python -m mkdocs build
 ```
 
-This will generate the html and css files in the **site** directory. 
+This will generate the html and css files in the **site** directory.
