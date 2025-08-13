@@ -1,4 +1,6 @@
-## Overview
+---
+title: ""
+---
 
 Writing open and reproducible code is an essential part of computational biology research. We adhere to a strict set of organisational and stylistic conventions to maximise code reuse by lab members, improve analysis rigour, and reduce the amount of code clean-up needed before paper submission. These standards are meant for general data analysis repositories that would accompany a publication, not for published software tools.
 
