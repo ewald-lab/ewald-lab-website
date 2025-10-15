@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.10.08.676630
+  title: Identifying and targeting abnormal mitochondrial localization associated
+    with psychoses
+  authors:
+  - Marzieh Haghighi
+  - Donna McPhie
+  - Mohammad Rohban
+  - David J Logan
+  - Johan Fredin Haslum
+  - Jessica D Ewald
+  - Kyle W Karhohs
+  - Erin Weisbart
+  - Beth A Cimini
+  - Shantanu Singh
+  - Bruce M Cohen
+  - Anne E Carpenter
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-10-08'
+  link: https://doi.org/g96jsf
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/etc.5954
   title: 'The DIKW of transcriptomics in ecotoxicology: extracting information, knowledge,
     and wisdom from big data'
