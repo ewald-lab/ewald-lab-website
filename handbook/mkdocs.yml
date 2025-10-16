@@ -24,14 +24,14 @@ extra:
 # Page tree
 nav:
   - Home: index.md
-  #- Reading List:
-    #- Overview: reading/reading-overview.md
-    #- 1. Tox21: reading/1-tox21.md
-    #- 2. Image-based profiling: reading/2-image-based-profiling.md
-    #- 3. Cell profiling for tox: reading/3-profiling-tox.md
   - Joining the lab: join-lab.md
   - Onboarding: onboarding.md
   - Lab day-to-day: day-to-day.md
   - Conducting research: conducting-research.md
   - GitHub guidelines: git-repo.md
+  - Reading List:
+    - Overview: reading/reading-overview.md
+    - 1.  Next-generation (environmental) toxicology: reading/1-tox21.md
+    - 2. Image-based profiling: reading/2-image-based-profiling.md
+    #- 3. Cell profiling for tox: reading/3-profiling-tox.md
   - Useful courses: courses-overview.md
