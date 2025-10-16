@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 ## Before starting
 
 Make sure that Jess knows your intended arrival time on your first day so that she can arrange for someone to meet you. Also let her know how you will arrive - most people will either drive using their own car, or take the [Genome Campus shuttle](https://campuslife.wellcomegenomecampus.com/wp-content/uploads/2025/03/Campus-Shuttlebus-Service-Timetables-From-8th-January-2024-V1.1.pdf). If driving, let Jess know so that she can arrange parking for your first day. The shuttle is free and does not require prior booking, but has relatively few times and stops. Once you have your IT account, you will be able to use the free [campus coach service](https://campuslife.wellcomegenomecampus.com/wp-content/uploads/2025/03/Campus-Coach-Service-Timetables-From-September-2024.docx.pdf) which has more extensive routes.
