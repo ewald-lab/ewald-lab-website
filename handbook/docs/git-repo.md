@@ -8,7 +8,7 @@ Writing open and reproducible code is an essential part of computational biology
 
 Create a new repository within the [Ewald Lab GitHub Org](https://github.com/ewald-lab) with the following specs:
 
-* Use the Ewald Lab analysis repo template
+* Use the Ewald Lab [analysis repo template](https://github.com/ewald-lab/Analysis_Repository_Template)
 * If it's a project driven primarily by you, the repo name should be YEAR_MONTH_LASTNAME_SHORT_DESCRIPTION, for example 2025_08_Ewald_TimeDynamics
 * If it's a large collaborative project, use the name of the collaboration instead of your name, for example 2025_08_OASIS_CellPainting
 * Make sure the repository is set to Private; this can be changed to Public after discussion with all team members, or upon publication
@@ -31,6 +31,8 @@ Each repository should have one or more 'analysis module' directories in the roo
 
 Files in the analysis folder should be numbered based on the order in which they should be executed (ie. 00.download_data.py, 01.descripe_exp_design.py, 02.filter_normalize.py, etc). You'll notice that there is a separate environment for each analysis module. This helps keeps environments more lightweight, hopefully reducing dependency conflicts across the entire repository.
 
+The analysis template enforces Python code linting using Ruff. A linter analyzes the code to ensure it follows best practices and consistent style guidelines. This helps developers catch mistakes early, maintain clean and readable code, and improve overall code quality across a project.
+
 ## Repository as a lab notebook
 
 If you encounter an issue with the data, an open question that needs discussion, or generate cool results, please describe these in GitHub issues within the repository and tag Jess or other team members instead of sending an email. This keeps a clear record of all project-related troubleshooting, questions, and milestones. This is very helfpul for onboarding new team members to help out with the project, or for reminding ourselves of the reasons why particular decisions were made - this becomes very important for multi-year projects! The only exceptions are discussions that require confidentiality (use email) or quick reminder-type questions (use Slack). Keep in mind that most repositories will be made public eventually, including all associated GitHub Issues, so this is extra motiviation to keep things professional.
@@ -48,3 +50,4 @@ The bulk of your analysis will likely by in the `xx.analysis_pipeline` module. I
 * Do not mix analysis inputs and outputs - the input folder should be reserved for external inputs. Intermediate results should be written to the outputs folder. Take care to give your outputs sensible names so that it's relatively easy for an outsider to guess the contents of the files.
 * Only very small input tables should be committed to the GitHub repo. For larger input files, include a download_XXX.sh file that fetches the data from an online repository or use symlinks to an external storage location on the cluster. If downloading data from online, download to a subdirectory in the inputs dir (ie. inputs/raw_profiles/) and add the subdir to the .gitignore.
 * If using Jupyter notebooks, avoid committing printed out dataframes or variables, unless it is a highly meaningful result. For example print(df) is usually not helpful, but print(f"There were {num_sig} significant perturbations") could be a useful reference.
+* We use the [fork and pull](https://reflectoring.io/github-fork-and-pull/#:~:text=Creating%20a%20fork%20on%20GitHub,to%20the%20fork%20on%20GitHub.) workflow for Github repositories. This makes it easier to manage multiple contributors to repositories, and is generally good practice.

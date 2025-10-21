@@ -12,3 +12,5 @@ Here are some key papers on the Cell Painting assay:
 * Pycytominer Python package for image-based profiling ([paper link](https://www.nature.com/articles/s41592-025-02611-8))
 * Cell Painting Gallery ([paper link](https://www.nature.com/articles/s41592-024-02399-z))
 * A review of Cell Painting applications ([paper link](https://www.nature.com/articles/s41592-024-02528-8))
+
+To learn how to use CellProfiler to process Cell Painting images, run through the [beginner segmentation CellProfiler tutorial](https://tutorials.cellprofiler.org/#beginner-segmentation) following [this recording](https://www.youtube.com/watch?v=OXHOuRcxr-A&list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL&index=6). You can either do this locally or on the Codon Cluster by using the Xfce Desktop Environment available through the [iHPC portal](https://ihpc.ebi.ac.uk/). In the portal, go to 'Interactive Apps', select 'Desktop', and launch a session. You should be able to install CellProfiler and download tutorial materials just like on your local computer.
