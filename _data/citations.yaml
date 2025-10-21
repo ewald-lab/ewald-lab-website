@@ -22,6 +22,32 @@
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/toxsci/kfaf128
+  title: 'The OASIS Consortium: integrating multi-omics technologies to transform
+    chemical safety assessment'
+  authors:
+  - "David Rouqui\xE9"
+  - Andreas Bender
+  - Jaime Cheah
+  - Christine E Crute
+  - Deidre Dalmas
+  - Jessica Ewald
+  - Aaron Fullerton
+  - Joshua A Harrill
+  - Sabah Kadri
+  - Nicole Kleinstreuer
+  - Nynke Kramer
+  - Jessica LaRocca
+  - Constance A Mitchell
+  - Srijit Seal
+  - Shantanu Singh
+  - Anne E Carpenter
+  publisher: Toxicological Sciences
+  date: '2025-09-15'
+  link: https://doi.org/g96xht
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/etc.5954
   title: 'The DIKW of transcriptomics in ecotoxicology: extracting information, knowledge,
     and wisdom from big data'
@@ -36,6 +62,71 @@
   plugin: sources.py
   file: sources.yaml
   image: https://setac.onlinelibrary.wiley.com/cms/asset/ef8a1122-ca4d-48da-b538-2847f3d99268/etc5954-fig-0002-m.jpg
+- id: doi:10.1038/s41592-025-02753-9
+  title: Morphological map of under- and overexpression of genes in human cells
+  authors:
+  - Srinivas Niranj Chandrasekaran
+  - Eric Alix
+  - John Arevalo
+  - Adriana Borowa
+  - Patrick J. Byrne
+  - William G. Charles
+  - Zitong S. Chen
+  - Beth A. Cimini
+  - Boxiong Deng
+  - John G. Doench
+  - Jessica D. Ewald
+  - Briana Fritchman
+  - Colin J. Fuller
+  - Jedidiah Gaetz
+  - Amy Goodale
+  - Marzieh Haghighi
+  - Yu Han
+  - Zahra Hanifehlou
+  - Holger Hennig
+  - Desiree Hernandez
+  - Christina B. Jacob
+  - Tim James
+  - Tomasz Jetka
+  - Alexandr A. Kalinin
+  - Ben Komalo
+  - Maria Kost-Alimova
+  - Tomasz Krawiec
+  - Brittany A. Marion
+  - Glynn Martin
+  - Nicola Jane McCarthy
+  - Lisa Miller
+  - Arne Monsees
+  - Nikita Moshkov
+  - "Al\xE1n F. Mu\xF1oz"
+  - Arnaud Ogier
+  - Magdalena Otrocka
+  - Krzysztof Rataj
+  - David E. Root
+  - Francesco Rubbo
+  - Simon Scrace
+  - Douglas W. Selinger
+  - Rebecca A. Senft
+  - Peter Sommer
+  - Amandine Thibaudeau
+  - Sarah Trisorus
+  - Rahul Valiya Veettil
+  - William J. Van Trump
+  - Sui Wang
+  - "Micha\u0142 Warcho\u0142"
+  - Erin Weisbart
+  - "Am\xE9lie Weiss"
+  - Michael Wiest
+  - Agata Zaremba
+  - Andrei Zinovyev
+  - Shantanu Singh
+  - Anne E. Carpenter
+  publisher: Nature Methods
+  date: '2025-08-01'
+  link: https://doi.org/g96xhv
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.02.20.639325
   title: Linking molecular pathways and islet cell dysfunction in human type 1 diabetes
   authors:
