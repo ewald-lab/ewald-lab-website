@@ -22,7 +22,7 @@ Internships are usually for senior undergraduate (3rd or 4th year) or Masters st
 
 ### PhD candidates
 
-PhD students are recruited via the EMBL International PhD Programme, and receive their degrees through the University of Cambridge. For queries regarding the programme, please contact the EBI Research Office (<roffice@ebi.ac.uk>). The next recruitment round opens September 2025, for a start date of Fall 2026. The application process is jointly conducted across all EMBL sites and labs. To ensure that your application reaches my eyes, please indicate my name and the EBI UK site in the application questions that ask about specific Group Leaders and locations. Please also highlight any courses or research experience that you have related to machine learning, omics data analysis, image analysis, and/or toxicology.
+PhD students are recruited via the EMBL International PhD Programme, and receive their degrees through the University of Cambridge. For queries regarding the programme, please contact the EBI Research Office (<roffice@ebi.ac.uk>). The application process is jointly conducted across all EMBL sites and labs. To ensure that your application reaches my eyes, please indicate my name and the EBI UK site in the application questions that ask about specific Group Leaders and locations. Please also highlight any courses or research experience that you have related to machine learning, omics data analysis, image analysis, and/or toxicology.
 
 ### Postdocs
 

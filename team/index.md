@@ -16,8 +16,12 @@ Our lab thrives on curiosity, teamwork, and a commitment to tackling key problem
 
 {% include section.html dark="true"%}
 
-## The ESPOD Postdoctoral Fellowship is open for applications!
+## Postdoctoral Fellowship in image-based carcinogen detection
 
-ESPOD Fellows will be jointly supervised by faculty from EMBL-EBI and the Sanger Institute. The Ewald Lab has submitted projects on [using generative AI to predict effects of pesticides on human cells](https://www.embl.org/editorhub/wp-content/uploads/2025/08/Project-7-ESPOD_Ewald_Lotfollahi.pdf) and on [developing advanced image analysis methods to study T-cell activation](https://www.embl.org/editorhub/wp-content/uploads/2025/08/Project-3-ESPOD_Ewald_Trynka.pdf). See [more information on the ESPOD program](https://www.ebi.ac.uk/research/postdocs/espods/) as well as instructions for applying. Applications close **September 30, 2025**.
+What if we could use deep learning to get a detailed picture of how chemicals cause in vivo toxicity at a spatially-resolved, single-cell level, decades after the toxicity tests were conducted? If this sounds exciting to you, [please apply](https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Postdoctoral-Fellowship-in-Image-Based-Carcinogen-Detection_JR2418)!
 
 {% include section.html %}
+
+## French Embassy Internship in machine learning for biology
+
+The [EMBL-EBI / French Embassy in London Internship Program](https://www.ebi.ac.uk/about/jobs/internships/embl-ebi-french-embassy-london-internships/) is open for applications! Please see the linked website for details on eligibility and on the application process.

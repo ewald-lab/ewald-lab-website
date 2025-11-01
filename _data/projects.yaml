@@ -1,8 +1,20 @@
+- title: Pesticides in human cells
+  group: featured
+  image: images/pesticides_cells.jpg
+  link: https://www.embl.org/about/info/human-ecosystems/
+  description: We are measuring Cell Painting and metabolomics in human cells after exposing them to a panel of pesticides. The objective is to detect common modes-of-action to provide a rational basis for evaluating the risk of exposure to pesticide mixtures. 
+
 - title: OASIS Consortium
   group: featured
-  image: images/oasis_logo.png
+  image: images/hepaRG_crop.jpeg
   link: https://oasisconsortium.org/
   description: Our goal is to assess the combination of Cell Painting, transcriptomics and proteomics in a variety of cell models for safety assessment of drugs, pesticides, and environmental contaminants, using hepatotoxicity as test case. We are a precompetitive collaboration between 31 academic, non-profit, industry, and government institutions. 
+
+- title: Image-based carcinogen detection
+  group: featured
+  image: images/HE_liver.jpg
+  link: https://ntp.niehs.nih.gov/data/archives
+  description: In this project, we are applying deep learning methods to images of H&E-stained tissue slides collected after exposing rodents to carcinogens to investigate mutagenic and non-mutagenic modes-of-action at a spatially-resolved, single-cell level. This project is in collaboration with the United States NIEHS and the Coorens Lab at EMBL-EBI.
 
 - title: EcoToxChip Project
   image: images/ecotoxchip_logo.jpg
