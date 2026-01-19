@@ -14,7 +14,7 @@ On the first day, you should:
 
 * Get your temporary access badge from security.
 * Basic IT: pick up your EBI laptop, connect to the EBI network and sign into your email and Slack account.
-* Send Jess a Slack message asking her to add you to relevant research channels.
+* Send Jess a Slack message asking her to add you to relevant research channels and lab Google group.
 * Choose a desk and set up your keyboard and mouse.
 * Download the Welcome Genome Campus bus app and book your trip home (if using the bus service).
 * Is it Wednesday? Go to the South Building to get your picture taken. If not, make a note in your calendar to do this on the next Wednesday that you'll be on campus.
@@ -31,3 +31,4 @@ Within the first week, you should:
 * Make sure that you have an HR induction meeting scheduled. This is where you will learn how to access your health insurance, how to take annual leave, etc.
 * Check out the [HPC Training Program](https://embl.service-now.com/esc?id=kb_article_view&sys_kb_id=8fb11b4e8308fe50501baf60deaad327) and watch any relevant recordings of prior trainings. Also let Jess know if there are any future training sessions that you'd like to be registered for.
 * Once you get a notification that you've been added to the Ewald Lab Google Group, you will have access to the main lab folders for [projects](https://drive.google.com/drive/folders/1FHVnRxVjYFt0frn_LJOOhwe-jwJcS5nu?usp=sharing), [publications](https://drive.google.com/drive/folders/1M71oyby22cvc-Ot-ozpWBJzLJ0m0n0x7?usp=sharing), [presentations](https://drive.google.com/drive/folders/1RDfznOzSH98_TlNvudphVtHW3zoZv7U8?usp=sharing), and [CVs](https://drive.google.com/drive/folders/15M3ps0JI_o_Q3lGKUuFOk8HjzTrp1PVR?usp=sharing). Add a shortcut to each folder on your own Google Drive: hover over the name of the folder, go to 'Organise', and then 'Add shortcut'.
+* Send Jess a headshot and a short bio so that she can add you to the lab [team page](https://ewaldlab.org/team/).
