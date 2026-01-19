@@ -12,5 +12,6 @@ Our lab thrives on curiosity, teamwork, and a commitment to tackling key problem
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'intern'" %}
 {% include list.html data="members" component="portrait" filter="role == 'new'" %}
 
