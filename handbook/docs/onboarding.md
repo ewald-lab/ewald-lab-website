@@ -4,9 +4,13 @@ title: ""
 
 ## Before starting
 
-Make sure that Jess knows your intended arrival time on your first day so that she can arrange for someone to meet you. Also let her know how you will arrive - most people will either drive using their own car, or take the [Genome Campus shuttle](https://campuslife.wellcomegenomecampus.com/wp-content/uploads/2025/03/Campus-Shuttlebus-Service-Timetables-From-8th-January-2024-V1.1.pdf). If driving, let Jess know so that she can arrange parking for your first day. The shuttle is free and does not require prior booking, but has relatively few times and stops. Once you have your IT account, you will be able to use the free [campus coach service](https://campuslife.wellcomegenomecampus.com/wp-content/uploads/2025/03/Campus-Coach-Service-Timetables-From-September-2024.docx.pdf) which has more extensive routes.
+In the weeks before you start:
 
-You should receive an email from HR after accepting your employment offer with useful information about moving to the Cambridge area and finding housing. Additionally, you should be able to sign up with the [Cambridge accommodation services](https://www.accommodation.cam.ac.uk/) to access listings for properties owned by the university or university affiliates. Note also that EMBL payroll is once per month, and if your first day is after the 10th of the month, you won't get your first paycheck until the 20th of the next month, ~6 weeks after starting. HR can help you get paid earlier, but you need to ask them for help.
+* Make sure that Jess knows your intended arrival method ([Genome Campus shuttle](https://campuslife.wellcomegenomecampus.com/wp-content/uploads/2025/03/Campus-Shuttlebus-Service-Timetables-From-8th-January-2024-V1.1.pdf), [campus coach service](https://campuslife.wellcomegenomecampus.com/wp-content/uploads/2025/03/Campus-Coach-Service-Timetables-From-September-2024.docx.pdf), driving own car, etc) and time for your first day so that she can help you book a bus spot/parking and arrange for someone to meet you when you arrive.
+* Follow up if you don't receive an email from HR after accepting your employment offer. This is where you will receive helpful information about moving to the Cambridge area.
+* Consider registering with the [Cambridge accommodation services](https://www.accommodation.cam.ac.uk/) to access listings for properties owned by the university or university affiliates.
+* Think about payday: EMBL payroll is once per month, and if your first day is after the 10th of the month, you won't get your first paycheck until the 20th of the next month, ~6 weeks after starting. HR can help you get paid earlier, but you need to ask them for help.
+* When inputting your bank account info, make sure to use an account with a UK Sort Code, otherwise you will get charged currency conversion fees both when you get paid and when you convert the money back to pounds. Other lab members have achieved this through GBP currency accounts in Wise and Revolut, or by opening a UK account online, before moving, with HSBC.
 
 ## First day
 
