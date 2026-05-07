@@ -1,17 +1,47 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.cels.2026.101566
+  title: Cell Painting for cytotoxicity and mode-of-action analysis in primary human
+    hepatocytes
+  authors:
+  - Jessica D. Ewald
+  - Katherine L. Titterton
+  - "Alex B\xE4uerle"
+  - Alex Beatson
+  - Daniil A. Boiko
+  - "\xC1ngel A. Cabrera"
+  - Jaime Cheah
+  - Beth A. Cimini
+  - Bram L. Gorissen
+  - Joshua Harrill
+  - Thouis R. Jones
+  - Konrad J. Karczewski
+  - Christine E. Crute
+  - David Rouquie
+  - Srijit Seal
+  - Erin Weisbart
+  - Brandon White
+  - Anne E. Carpenter
+  - Shantanu Singh
+  publisher: Cell Systems
+  date: '2026-03-01'
+  link: https://doi.org/hb2tvs
+  orcid: 0000-0002-7555-736X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.10.08.676630
   title: Identifying and targeting abnormal mitochondrial localization associated
-    with psychoses
+    with psychosis
   authors:
   - Marzieh Haghighi
   - Donna McPhie
   - Mohammad Rohban
-  - David J Logan
-  - Johan Fredin Haslum
-  - Jessica D Ewald
-  - Kyle W Karhohs
   - Erin Weisbart
+  - David J Logan
+  - Kyle W Karhohs
+  - Suzann M Babb
+  - Jessica D Ewald
+  - Johan Fredin Haslum
   - Beth A Cimini
   - Shantanu Singh
   - Bruce M Cohen
