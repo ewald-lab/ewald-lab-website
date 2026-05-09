@@ -1,11 +1,11 @@
 ---
-name: Guillaume Ollitraut
+name: Guillaume Ollitrault
 image: images/team/guillaume.jpg
 role: postdoc
 affiliation: EMBL-EBI
 aliases:
-  - G. Ollitraut
-  - Guillaume Ollitraut
+  - G. Ollitrault
+  - Guillaume Ollitrault
 links:
   home-page: https://www.linkedin.com/in/guillaume-ollitrault/
   orcid: 0009-0008-5119-9044
