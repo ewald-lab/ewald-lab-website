@@ -4,7 +4,7 @@ title: ""
 
 We welcome inquiries from students and researchers at all levels who are passionate about the intersection of computational biology and environmental toxicology. If you’re interested in joining the lab, please email Jess at <jewald@ebi.ac.uk> with a brief statement of your interests and your CV.
 
-We will always post new positions on [LinkedIn](https://www.linkedin.com/in/jessica-ewald-17140072/), [BlueSky](https://bsky.app/profile/ewaldlab.org), and the lab website, so you are encouraged to follow Jess on those platforms. If you are able to bring some of your own funding or plan to apply for a fellowship, please indicate this in your initial email. We are always willing to support fellowship applications when there is a good fit between the person, the project, and our lab!
+We will always post new positions on [LinkedIn](https://www.linkedin.com/in/jessica-ewald-17140072/) and the lab website, so you are encouraged to follow Jess on those platforms. If you are able to bring some of your own funding or plan to apply for a fellowship, please indicate this in your initial email. We are always willing to support fellowship applications when there is a good fit between the person, the project, and our lab!
 
 Please see below for more details depending on your circumstances.
 
@@ -27,4 +27,3 @@ PhD students are recruited via the EMBL International PhD Programme, and receive
 ### Postdocs
 
 I am always interested in supporting postdoctoral fellowship applications - if you've identified a fellowship that fits with your timelines, please give those details in your introductory email. There are some [EMBL-specific postdoctoral fellowships](https://www.embl.org/about/info/postdoctoral-programme/fellowship-programmes/) that you can consider. Please contact me well in advance of the application deadlines (several months at least) so that I can provide adequate support during the writing process, and so that we have time to sort out any potential administrative details related to hosting your fellowship at EMBL.
-

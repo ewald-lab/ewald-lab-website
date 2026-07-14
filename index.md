@@ -1,14 +1,14 @@
 ---
 ---
 
-## We identify and characterize chemical hazards to humans and ecosystems with cell profiling data, machine learning, and integrative data analysis.
+## We investigate the molecular and cellular mechanisms by which environmental chemical exposures contribute to human disease using machine learning and multimodal data.
 {% include section.html %}
 
 
 ## The Big Problem
 
 {% capture col1 %}
-Environmental contaminants cause 16% of premature deaths worldwide, yet most chemicals in commercial use have never been assessed for their potential to cause harm to humans or ecosystems. Traditional toxicity testing methods that use live animals are too expensive, slow, and ethically concerning to assess chemical hazard at scale. 
+Environmental contaminants cause 16% of premature deaths worldwide, yet most chemicals in commercial use have never been assessed for their potential to impact human health. Traditional chemical safety evaluation methods that use live animals are too expensive and slow to assess environmental chemical contributions to disease at scale.
 {% endcapture %}
 
 {% capture col2 %}
@@ -35,7 +35,7 @@ Environmental contaminants cause 16% of premature deaths worldwide, yet most che
 {% endcapture %}
 
 {% capture col2 %}
-Drug discovery programs routinely screen thousands to millions of compounds in computational and cellular models for their potential to treat disease. What if we used this same technology to assess whether chemicals used in other sectors of society are dangerous? Scientists and government regulators are urgently working to implement high-throughput screening methods to prioritize resource-instensive testing for the most hazardous compounds. 
+Drug discovery programs routinely screen thousands to millions of compounds in computational and cellular models for their potential to treat disease. What if we used this same technology to assess whether chemicals used in other sectors of society are dangerous? Scientists and government regulators are urgently working to implement high-throughput screening methods to prioritize resource-instensive testing for the most hazardous compounds.
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
@@ -65,7 +65,7 @@ A brute-force approach of testing every compound in all cell types and species i
 
 Omics data enables us to measure thousands of molecular and morphological features from cells after they are exposed to chemicals. When we measure these data from *in vitro* cellular assays, we call it “cell profiling”. Using cell profiling data, the Ewald Lab:
 
-- Estimates the lowest chemical exposure that causes molecular and morphological perturbations in different tissues of living organisms (including humans!) for thousands of compounds
+- Estimates the lowest chemical exposure that causes molecular and morphological perturbations in different human tissues for thousands of compounds
 
 - Predicts how chemicals cause toxicity by analyzing images of exposed cells with machine learning, transfer learning, and multi-omics integration
 

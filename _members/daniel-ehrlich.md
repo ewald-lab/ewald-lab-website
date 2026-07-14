@@ -8,7 +8,7 @@ aliases:
   - Daniel Ehrlich
 links:
   home-page: https://www.linkedin.com/in/danieljehrlich/
-  orcid: 0009-0001-0009-5404
+  orcid: 0009-0005-1923-9227
 order: 2
 ---
 

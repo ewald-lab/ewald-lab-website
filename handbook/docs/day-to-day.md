@@ -8,7 +8,7 @@ We will have a section on lab culture, but Jess feels that she can't write this 
 
 ## 1. Lab meetings
 
-We have a one hour lab meeting once per week, on Tuesdays from 10:00-11:00. All lab members are expected to attend this meeting in person, unless you are taking annual leave, are sick, are away, or have a one-off scheduling conflict. The format of the meeting will be lab announcements, a quick round table where each member briefly describes what they're currently working on, and a ~30 minute discussion led by someone in the group.
+We have a one hour lab meeting once per week, on Tuesdays from 11:00-12:00 in the Skylark room. The lab typically goes to lunch together after lab meeting. All lab members are expected to attend this meeting in person, unless you are taking annual leave, are sick, are away, or have a one-off scheduling conflict. The format of the meeting will be lab announcements, a quick round table where each member briefly describes what they're currently working on, and a ~30 minute discussion led by someone in the group.
 
 Since our group is small, lab members will lead discussions frequently and you are not expected to have polished presentations - ugly slides or rough outlines in a Google Doc are totally fine! We will alternate between sharing project proposals, results, getting feedback on posters and talks prior to conferences, and discussing papers ("journal club"). The point is not to "show off" your progress, but to engage other group members in discussion. Occaisionally we will invite external guests to share their work, either virtually or in person. We use [this spreadsheet](https://docs.google.com/spreadsheets/d/1xyEZKaI4RKXy5J1eICLTAOkvQD2pgjZ37QmAorXzZwQ/edit?usp=sharing) to plan upcoming meetings.
 
@@ -24,10 +24,11 @@ Our lab has some common Google Drive folders for organising our project notes, p
 
 EMBL-EBI is a hybrid work environment and the official expectation is three days in office per week. Ewald Lab members are expected to attend lab meetings (every Tuesday), regular department seminars (every other Thursday), and 1:1 meetings with Jess in person. Other than these cases, the 'three day rule' will operate according to the honor system and Jess will not keep close tabs on it.
 
-Some additional considerations:
+Please log annual leave, conferences, and any time working abroad on the Ewald Lab Locations calendar on Google Calendar, as "Name (Annual Leave)" or "Name (Country)". You can find the 'Ewald Lab Locations' calendar at [this link](https://calendar.google.com/calendar/u/0?cid=Y184MGZiN2E3NTY0ODViYzNiMzgxYWNhNGFiNzJhNTM1MmEzZmFjMzIwMjQ1MTA5OWFlMzQzNjIzMDMwN2Y0N2IxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). Having this information readily available helps Jess plan ad hoc events, for example identifying a good week to have an external lab meeting speaker.
+
+Some additional considerations about office vs remote working:
 
 - If you are either in training or are training someone else, it might make sense to be in the office more often than three days per week for a short period of time - you should coordinate with the trainer/trainee.
-- Sometimes you will be out of office for prolonged periods, for example when attending workshops or conferences. No need to ask permission, but please let Jess know ahead of time.
 - EMBL is very international, and many people like the option of working remotely from their home country for short periods, for example a few days of work to meet hard deadlines in the middle of booked annual leave. This can put you in violation of residency and tax laws so please discuss these sorts of plans with Jess before booking anything so that we can check about grey areas with HR.
 - If you are sick, please take time off to recover! If you have a cold but are well enough and want to work, please work from home until you are symptom-free. Just let the lab know in Slack that you'll be working from home until your symptoms are gone.
 
@@ -55,15 +56,7 @@ We also value organising and participating in social events that are not related
 
 Our lab values keeping a balanced schedule, and priortises sustainable work habits that leave time to care for our mental and physical health. Jess will sometimes send emails outside of work hours, especially when she's travelling. This does not mean that you are expected to reply immediately, or that you should be working outside of work hours. Sometimes you may, through pure coincidence, have many deadlines at the same time that require working in the evenings/weekends to meet. If you find that this is regularly happening and you are overwhelmed with your workload, bring it up with Jess and we can discuss time management strategies, re-evaluate your commitments, and potentially bring on extra collaborators to make workloads more reasonable.
 
-## 7. Attending conferences and workshops
-
-Conferences are an important way to grow your network and learn about new research. Giving a very good conference presentation can have a greater positive impact on your career than publishing the related paper - conferences are popular places to recruit and build new collaborations. The lab can usually support each member attending one conference outside of the UK per year, although conferences that are very far away may need additional consideration. Some fellows (PhDs, some postdocs) have a dedicated budget that can be used to fund conference / training attendance - you have some freedom in how this is allocated. Applying for travel grants or presenting on behalf of a project with dedicated travel funds could enable you to attend more than one international conference per year. Do not register for conferences on your own; the research office will directly pay the registration fee to avoid extra paperwork associated with reimbursements.
-
-Keep an eye out for local workshops and symposia. The Cambridge area is a rich scientific hub and Jess is very supportive of you taking advantage of these opportunities. The lab budget should be able to cover most local events, but check with Jess before registering. Sometimes volunteers are given free registrations.
-
-If you'd like to attend a conference, please give Jess lots of notice before abstract submission deadlines (4 weeks or more). The main reason is that our lab collaborates a lot with industry and government, and some of these institutions have mandatory internal abstract reviews and may need several weeks notice. If you are presenting a poster or giving a talk, please finish your materials in advance (2 weeks for a poster, 4 weeks for a talk). You should arrange to practice your presentation or get feedback on your poster in a lab meeting before the conference. This helps you, and it also helps newer lab members who may not have attended conferences before.
-
-## 8. Collaborations
+## 7. Collaborations
 
 Our lab engages in many collaborations - with other academic labs (especially ones that generate data), and also industry and government scientists. Do not share project data or results externally unless you've checked with collaborators. It's easy to spend a lot of time doing analyses that someone asked for in a large group call on a whim - before investing significant time, you should understand how essential the analysis is towards the main project objectives. Make sure you know your role in any related publications as your responsibilities should change if you are in a first or middle authorship position. If you aren't sure, discuss with Jess and she will initiate discussions to clarify roles if need be. These conversations can be a bit awkward, so its best to have them early and explicitly before different parties invest significant resources.
 
