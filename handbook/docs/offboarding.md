@@ -15,7 +15,7 @@ It might seem strange to already be thinking about leaving the lab at the beginn
 
 About a month before leaving, you should:
 
-* Discuss what level of access you'll need to EBI resources, and for how long. This will determine what sort of status you are given (e-visitor, unpaid visitor, etc), and Jess needs some time to submit all of the Workday form.
+* Discuss what level of access you'll need to EBI resources, and for how long. This will determine what sort of status you are given (e-visitor, unpaid visitor, etc), and Jess needs some time to submit all of the Workday forms.
 * Clean up your GitHub repos and ensure that you are able to open pull requests to contribute your recent work to the parent repos shortly before leaving.
 * Move all project files and presentations to the shared Google folders (projects, manuscripts, preesntations) so that the lab can still access them after you leave. Transfer ownership of all files that you've created to Jess.
 * Send Jess a personal email address that you will not lose access to and ask her add you to any Google drive folders that you'll need access to over the coming months.
