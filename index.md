@@ -1,14 +1,14 @@
 ---
 ---
 
-## We investigate the molecular and cellular mechanisms by which environmental chemical exposures contribute to human disease using machine learning and multimodal data.
+## We investigate the molecular and cellular mechanisms by which environmental chemical exposures contribute to human disease using machine learning and multi-modal data.
 {% include section.html %}
 
 
 ## The Big Problem
 
 {% capture col1 %}
-Environmental contaminants cause 16% of premature deaths worldwide, yet most chemicals in commercial use have never been assessed for their potential to impact human health. Traditional chemical safety evaluation methods that use live animals are too expensive and slow to assess environmental chemical contributions to disease at scale.
+Environmental contaminants cause 16% of premature deaths worldwide, yet most chemicals in commercial use have never been assessed for their potential to impact human health. Traditional chemical safety evaluation methods that use live animals are informative, but too expensive and slow to assess environmental chemical contributions to disease at scale.
 {% endcapture %}
 
 {% capture col2 %}
@@ -45,7 +45,7 @@ Drug discovery programs routinely screen thousands to millions of compounds in c
 ## Computational Biology Challenges
 
 {% capture col1 %}
-A brute-force approach of testing every compound in all cell types and species is impractical. Instead, scientists must develop computational approaches that leverage prior knowledge of taxonomic relationships, cell types, and cell state to design efficient chemical screens and extrapolate observed toxicity across biological space.
+A brute-force approach of testing every compound in all cell types and disease contexts is impractical. Instead, scientists must develop computational approaches that leverage prior knowledge of cell types, cell states, and their relationship to disease to design efficient chemical screens and extrapolate observed perturbations across biological space and scales.
 {% endcapture %}
 
 {% capture col2 %}
@@ -67,8 +67,8 @@ Omics data enables us to measure thousands of molecular and morphological featur
 
 - Estimates the lowest chemical exposure that causes molecular and morphological perturbations in different human tissues for thousands of compounds
 
-- Predicts how chemicals cause toxicity by analyzing images of exposed cells with machine learning, transfer learning, and multi-omics integration
+- Predicts how chemicals perturb human biology by analyzing images of exposed cells with machine learning, transfer learning, and multi-omics integration
 
-- Creates user-friendly web-tools that connect cell profiles to toxicity data from diverse *in silico*, *in vitro*, and *in vivo* sources
+- Creates user-friendly web-tools that connect cell profiles to chemical perturbation data from diverse *in silico*, *in vitro*, and *in vivo* sources
 
 We also value collaborating closely with stakeholders across government, industry, and academia to maximize the translational impact of our work.

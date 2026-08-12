@@ -1,7 +1,9 @@
 ---
 name: Joan Saurina Ricos
 image: images/team/joan.jpg
-role: intern
+role: alumni
+lab_role: Research intern
+future_position: To be announced
 affiliation: EMBL-EBI
 aliases:
   - J. Saurina Ricos
@@ -12,4 +14,4 @@ links:
 order: 3
 ---
 
-Joan is an AI researcher with a strong background in deep learning and genomics. After completing his Bachelor’s degree in Artificial Intelligence at the Polytechnic University of Catalonia (UPC), he conducted research at the Barcelona Supercomputing Center and Stanford University. At Stanford, he focused on optimising deep learning models for population genetics and ancestry inference in large-scale biobanks. Joan is currently an intern in the Ewald Group at EMBL-EBI, where he utilises Large Language Models (LLMs) to create databases from unstructured text and develops predictive models using Cell Painting data.
+Joan is an AI researcher with a strong background in deep learning and genomics. After completing his Bachelor’s degree in Artificial Intelligence at the Polytechnic University of Catalonia (UPC), he conducted research at the Barcelona Supercomputing Center and Stanford University. At Stanford, he focused on optimising deep learning models for population genetics and ancestry inference in large-scale biobanks. Joan was an intern in the Ewald Group at EMBL-EBI, where he utilised Large Language Models (LLMs) to create databases from unstructured text and developed predictive models using Cell Painting data.

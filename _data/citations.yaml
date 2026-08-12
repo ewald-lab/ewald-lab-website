@@ -290,6 +290,13 @@
   orcid: 0000-0002-7555-736X
   plugin: orcid.py
   file: orcid.yaml
+  description: Integration of multi-omics and clinical data for human donors with and
+    without type I and type II diabetes. It is an example of how we have previously
+    used multi-omics data to study a complex human disease.
+  buttons:
+  - type: website
+    text: HumanIslets.com
+    link: https://www.humanislets.com
 - id: doi:10.1038/s41467-024-50613-5
   title: Evaluating batch correction methods for image-based cell profiling
   authors:

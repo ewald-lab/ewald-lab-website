@@ -14,6 +14,8 @@ nav:
 
 {% include citation.html lookup="Web-based multi-omics integration" style="rich" %}
 
+{% include citation.html lookup="HumanIslets.com" style="rich" %}
+
 {% include section.html %}
 
 ## All
