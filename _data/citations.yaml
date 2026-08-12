@@ -289,10 +289,10 @@
   date: '2025-01-01'
   link: https://doi.org/g8wpqt
   orcid: 0000-0002-7555-736X
-  plugin: orcid.py
-  file: orcid.yaml
-  description: Integration of multi-omics and clinical data for human donors with and
-    without type I and type II diabetes. It is an example of how we have previously
+  plugin: sources.py
+  file: sources.yaml
+  description: Integration of multi-omics and clinical data for human donors with
+    and without type I and type II diabetes. It is an example of how we have previously
     used multi-omics data to study a complex human disease.
   buttons:
   - type: website
