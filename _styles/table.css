@@ -4,6 +4,24 @@ table {
   overflow-wrap: anywhere;
 }
 
+.table-wrapper {
+  overflow-x: auto;
+}
+
+.table-wrapper table {
+  width: 100%;
+  min-width: 560px;
+}
+
+.table-wrapper th {
+  font-weight: var(--bold);
+}
+
+.table-wrapper th,
+.table-wrapper td {
+  border: 0;
+}
+
 th {
   font-weight: var(--semi-bold);
 }
