@@ -25,7 +25,7 @@ Our lab thrives on curiosity, teamwork, and a commitment to tackling key problem
     <tr>
       <th>Name</th>
       <th>Role in Ewald Lab</th>
-      <th>Future position</th>
+      <th>Next position</th>
     </tr>
   </thead>
   <tbody>

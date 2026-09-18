@@ -1,9 +1,9 @@
 ---
 name: Joan Saurina Ricos
-image: images/team/joan.jpg
+image: images/team/alumni/joan.jpg
 role: alumni
 lab_role: Research intern
-future_position: To be announced
+future_position: MSc student, Universitat Autonoma de Barcelona
 affiliation: EMBL-EBI
 aliases:
   - J. Saurina Ricos
