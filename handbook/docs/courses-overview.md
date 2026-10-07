@@ -11,3 +11,6 @@ This is a collection of online lectures and tutorials that members of the Ewald 
 - [MIT Intro to Deep Learning](https://introtodeeplearning.com/)
 - [Zero to Mastery Pytorch](https://www.learnpytorch.io/)
 - Interactive explainers for [CNNs](https://poloclub.github.io/cnn-explainer/), [transformers](https://poloclub.github.io/transformer-explainer/), and [diffusion](https://poloclub.github.io/diffusion-explainer/)
+
+## Toxicology
+- [Practical Application of Toxicology in Drug Development](https://www.ats.cam.ac.uk/practical-application-toxicology-drug-development) (in-person weeklong course at Cambridge)
