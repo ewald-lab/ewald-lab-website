@@ -18,7 +18,7 @@ However, we are unlikely to hire PhDs or postdocs who have zero experience in on
 
 ### Interns
 
-Internships are usually for senior undergraduate (3rd or 4th year) or Masters students. Most internships should be for 6 months or more; only in exceptional circumstances would we consider a 3-4 month internship as it usually takes several months before new lab members are familiar enough with our data and methods to make meaningful progress in their project. We will not host unpaid or remote internships.
+Internships are usually for senior undergraduate (3rd or 4th year) or Masters students, and should be for 6 months or more as it usually takes several months before new lab members are familiar enough with our data and methods to make meaningful progress in their project. We will not host unpaid or remote internships. The only exceptions to the 6-month rule are internship programmes run by EBI (ie. French & Dutch embassy programs) and for local students who are able to do a research project as part of their Cambridge undergraduate or Master's degree, and do not have to physically relocate to the Cambridge area to conduct the internship. Interns are typically not supervised directly by Jess, but instead by senior postdocs or PhD students within the group.
 
 ### PhD candidates
 
@@ -27,3 +27,7 @@ PhD students are recruited via the EMBL International PhD Programme, and receive
 ### Postdocs
 
 I am always interested in supporting postdoctoral fellowship applications - if you've identified a fellowship that fits with your timelines, please give those details in your introductory email. There are some [EMBL-specific postdoctoral fellowships](https://www.embl.org/about/info/postdoctoral-programme/fellowship-programmes/) that you can consider. Please contact me well in advance of the application deadlines (several months at least) so that I can provide adequate support during the writing process, and so that we have time to sort out any potential administrative details related to hosting your fellowship at EMBL.
+
+## On AI-generated inquiries to join the lab
+
+I typically receive >10 requests to join the lab per week. It is very obvious when the person has used an LLM to generate their email, because these all sound the same. I do not finish reading these e-mails. If you would like your request to be seriously considered: use your own writing voice, be specific about why you want to join the Ewald Lab, explain why your prior training / experience makes you a good fit, be concise (one small paragraph), and attach your CV. Genuine e-mails that are not perfectly polished and corporate-sounding are exciting to me, and I enjoy reading and responding to them.

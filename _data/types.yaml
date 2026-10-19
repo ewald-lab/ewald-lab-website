@@ -6,6 +6,10 @@ pi:
   icon: fa-solid fa-microscope
   description: Group Leader
 
+staff:
+  icon: fa-solid fa-microscope
+  description: Staff Scientist
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
