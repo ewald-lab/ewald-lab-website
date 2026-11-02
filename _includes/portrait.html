@@ -24,7 +24,7 @@
 
     <img
       src="{{ member.image | relative_url | xml_escape }}"
-      class="portrait-image"
+      class="portrait-image{% if member.image_fit == 'contain' %} portrait-image-contain{% endif %}"
       alt="member portrait"
       loading="lazy"
       {% include fallback.html %}

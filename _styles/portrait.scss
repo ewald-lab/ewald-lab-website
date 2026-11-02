@@ -61,6 +61,11 @@
   box-shadow: var(--shadow);
 }
 
+.portrait-image-contain {
+  object-fit: contain;
+  background: #fff;
+}
+
 .portrait[data-style="tiny"] .portrait-image {
   width: 50px;
   margin: 0;
