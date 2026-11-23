@@ -581,9 +581,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/etc.5391
-  title: Exposure to Contaminated River Water is Associated with Early Hatching and
-    Dysregulation of Gene Expression in Early Life Stages of the Endangered Copper
-    Redhorse (<i>Moxostoma hubbsi</i>)
+  title: "Exposure to Contaminated River Water is Associated with Early Hatching and\
+    \ Dysregulation of Gene Expression in Early Life Stages of the Endangered Copper\
+    \ Redhorse (\n                    <i>Moxostoma hubbsi</i>\n                  \
+    \  )"
   authors:
   - H. Marchand
   - B. D. Barst
@@ -789,10 +790,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/acs.est.9b06607
-  title: 'EcoToxModules: Custom Gene Sets to Organize and Analyze Toxicogenomics Data
-    from Ecological Species'
+  title: 'EcoToxModules:
+
+    Custom Gene Sets to Organize and Analyze
+
+    Toxicogenomics Data from Ecological Species'
   authors:
-  - Jessica D. Ewald
+  - 'Jessica
+
+    D. Ewald'
   - Othman Soufan
   - Doug Crump
   - Markus Hecker
